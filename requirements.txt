@@ -1,0 +1,26 @@
+# SAMA Knowledge Base v2 — Python dependencies (Python >= 3.9)
+#   python -m pip install -r requirements.txt
+#   python -m playwright install chromium
+#
+# Two components are NOT pip packages:
+#   graphify   — knowledge-graph CLI, must be on PATH (override with GRAPHIFY_BIN)
+#   tesseract  — system binary; language data ships in tools/tessdata/
+
+# PDF + image handling (sama/convert.py)
+PyMuPDF>=1.23        # imported as 'fitz'
+Pillow>=10.0
+pytesseract>=0.3.10
+
+# Crawl (sama/crawl.py)
+playwright>=1.40
+
+# Tests
+pytest>=7.4
+
+# NOTE: v1 also required arabic-reshaper and python-bidi. They are deliberately
+# gone. Both produce *display* forms (Arabic presentation forms in visual
+# order); writing their output to disk is what makes a corpus unsearchable.
+# sama/common.repair_arabic goes the other way — presentation forms back to
+# logical-order standard Arabic — using only the stdlib.
+
+# Enrichment talks to the Anthropic API over urllib; no SDK required.

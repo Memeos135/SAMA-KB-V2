@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node (OpenCode plugin deps)
+node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# --- Runtime artifacts: all re-derivable, none belong in git -----------------
+scanner-sama-docs/*.pdf
+corpus/markdown/*.md
+quarantine/*.md
+graphify-out/*
+!graphify-out/.gitkeep
+SAMA_Knowledge_Base_Obsidian/*.md
+archive/graphify-snapshots/*/
+.ocr-tmp/
+
+reports/crawl/*
+reports/conversion/*
+reports/graph/*
+reports/runs/*/
+!reports/*/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db

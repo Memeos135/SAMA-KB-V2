@@ -1,0 +1,108 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugin": [
+    ".opencode/plugins/graphify.js"
+  ],
+  "subagent_depth": 5,
+  "permission": {
+    "external_directory": "deny"
+  },
+  "agent": {
+    "orchestrator": {
+      "description": "Workflow: legal (map→dig) → reviewer → formatter",
+      "mode": "primary",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "bash": "deny",
+        "webfetch": "deny",
+        "websearch": "deny",
+        "read": {
+          "*": "deny",
+          "docs/agents/*": "allow",
+          "docs/agents/**": "allow",
+          ".opencode/agents/*": "allow"
+        },
+        "task": {
+          "*": "deny",
+          "legal-compliance": "allow",
+          "completeness-reviewer": "allow",
+          "output-formatter": "allow"
+        }
+      }
+    },
+    "legal-compliance": {
+      "description": "Facets → parallel corpus-mapper → parallel corpus-extractor → legal memo",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "bash": "deny",
+        "external_directory": "deny",
+        "read": {
+          "*": "deny",
+          "docs/agents/*": "allow",
+          "docs/agents/**": "allow",
+          "corpus/markdown/*": "allow",
+          "corpus/markdown/**": "allow"
+        },
+        "task": {
+          "*": "deny",
+          "corpus-mapper": "allow",
+          "corpus-extractor": "allow"
+        }
+      }
+    },
+    "corpus-mapper": {
+      "description": "Survey corpus via grep/graph → Coverage Map; no long quotes",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "external_directory": "deny"
+      }
+    },
+    "corpus-extractor": {
+      "description": "Dig map-assigned stems → Evidence Packs; no holdings",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "external_directory": "deny"
+      }
+    },
+    "completeness-reviewer": {
+      "description": "Strict citation audit; loose coverage; prefer APPROVED_WITH_GAPS over revision loops",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "task": {
+          "*": "deny",
+          "legal-compliance": "allow"
+        }
+      }
+    },
+    "output-formatter": {
+      "description": "User-facing Final answer / Coverage / Gaps / Sources only",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "bash": "deny",
+        "task": {
+          "*": "deny"
+        }
+      }
+    }
+  }
+}

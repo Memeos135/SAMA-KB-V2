@@ -1,0 +1,51 @@
+---
+description: SAMA KB v2 session continuity for Cursor/IDE agents (read project docs; do not invent parallel truth)
+alwaysApply: true
+---
+
+# SAMA Knowledge Base v2 — IDE session memory
+
+IDE/agent continuity only. For facts, prefer live project docs over memory.
+
+## Read first (in order)
+
+1. `README.md` — layout, stages, what changed from v1 and why
+2. `docs/PIPELINE.md` — data flow, artifacts, cost control
+3. `docs/SESSION.md` — runbook and open items
+4. `docs/agents/README.md` — Orchestrator → Legal → Mapper → Extractor → Reviewer → Formatter
+
+## Source-of-truth hierarchy
+
+| Topic | Authoritative location |
+|---|---|
+| Layout & commands | `README.md` |
+| Data flow & artifacts | `docs/PIPELINE.md` |
+| Paths, thresholds, models | `sama/config.py` |
+| Session state / todos | `docs/SESSION.md` |
+| Agent personas | `docs/agents/` |
+| Regulatory text | `corpus/markdown/*.md` |
+| Graph navigation | `SAMA_Knowledge_Base_Obsidian/_INDEX_Routing.md` |
+| Conversion QA | `reports/conversion/` |
+| Graph QA | `reports/graph/` |
+
+**Corpus text wins** over graph enrichment or Obsidian paraphrase when quoting law.
+
+## How this repo is used
+
+- One entry point: `python run.py --all` (stages: crawl → convert → build → enrich → audit).
+- `python run.py --all --dry-run` reports what is wired up without spending anything.
+- Graphify ingest root is `corpus/` (markdown only).
+- Enrichment has a free tier (grounding, locators, caveats, routing index) and a
+  paid tier (node summaries, community themes, ~22% of edge narratives).
+  `--skip-model` runs the free tier alone.
+- This is a **first-run** pipeline: there is no baseline, delta or update mode.
+
+## Do not
+
+- Hardcode paths, thresholds or model names anywhere but `sama/config.py`.
+- Hardcode node/edge counts — read `graphify-out/graph.json` or the audit report.
+- Put secrets in docs, rules or committed files.
+- Re-run a full extract or a paid enrichment pass unless the user asks.
+- Reintroduce `arabic-reshaper` / `python-bidi`: they emit display-order
+  presentation forms, which is the defect v2 exists to fix.
+- Rewrite agent personas in-chat as a parallel source; edit `docs/agents/`.
