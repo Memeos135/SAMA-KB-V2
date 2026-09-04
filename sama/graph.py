@@ -61,7 +61,10 @@ def extract(force: bool = True) -> None:
     if staged.exists():
         shutil.rmtree(staged)
 
+    # Converted .md is gitignored (re-derivable). Graphify honors .gitignore,
+    # so without this flag extract sees an empty corpus.
     args = [config.GRAPHIFY_BIN, "extract", str(config.CORPUS_DIR.name),
+            "--no-gitignore",
             "--mode", config.GRAPHIFY_MODE, "--backend", "claude",
             "--model", config.GRAPHIFY_MODEL]
     if force:
