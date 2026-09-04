@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e15040fc071207b",
+        "id": "693c488ca0ce3f84",
         "type": "tabs",
         "children": [
           {
-            "id": "ab70045661e9c0c1",
+            "id": "1f8347e0c685bf95",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,8 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab70045661e9c0c1",
+  "active": "1f8347e0c685bf95",
   "lastOpenFiles": [
+    "_COMMUNITY_Securitization Capital Framework.md",
+    "_COMMUNITY_Financial Governance Principles.md",
+    "_COMMUNITY_Shariah Governance & AML.md",
+    "_INDEX_Routing.md",
     "Untitled.canvas",
     "Authentication Standard.md",
     "ABCP Conduit.md"

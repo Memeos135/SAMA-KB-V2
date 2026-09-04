@@ -220,6 +220,57 @@ GROUND_A, GROUND_B, GROUND_C = 0.90, 0.75, 0.60
 UNDEREXTRACT_FRAC = 0.5
 
 
+# --------------------------------------------------------------------------- #
+# Query-time retrieval  (v2 agent workflow: counsel / digger / auditor)
+#
+# Additive.  The v1 workflow (orchestrator -> legal -> mapper -> extractor ->
+# reviewer -> formatter) reads none of this and is unaffected.
+#
+# Recall is deliberately expensive here and precision is left to the model: a
+# stem retrieved and discarded costs one page read, a stem never retrieved is a
+# silent hole in the answer.  That asymmetry is the whole tuning rationale.
+# --------------------------------------------------------------------------- #
+
+ROUTING_INDEX_JSON = GRAPH_REPORTS / "routing_index.json"
+
+RETRIEVE_K = int(os.environ.get("SAMA_RETRIEVE_K", "30"))   # nodes kept per query
+RETRIEVE_MIN_SCORE = 1.0          # below this a term counts as a miss, not a weak hit
+
+# A node also has to cover enough of the facet to be about it.  Score alone lets
+# one shared word ("insurance") drag in a node on an unrelated question, which
+# then reads as a hit and hides a genuine NOT_FOUND_IN_CONTEXT.
+RETRIEVE_MIN_COVERAGE = 0.5       # share of facet tokens a node must carry
+
+# A dig brief never says "open the whole document".  Below this size the page
+# list is simply enumerated; above it, a stem with no page-level signal is
+# reported but left off the dig plan, because the alternative is a digger
+# pulling a 902-page instrument into its context on a hunch.
+RETRIEVE_SMALL_DOC_PAGES = 4
+
+# Graph expansion.  A question rarely names the node that holds the answer, so
+# direct term hits are treated as entry points rather than as the answer set.
+RETRIEVE_EXPAND_COMMUNITY = os.environ.get("SAMA_RETRIEVE_EXPAND_COMMUNITY", "1") != "0"
+RETRIEVE_EXPAND_NEIGHBOURS = os.environ.get("SAMA_RETRIEVE_EXPAND_NEIGHBOURS", "1") != "0"
+RETRIEVE_EXPAND_DECAY = 0.35      # score an expanded node inherits from its seed
+RETRIEVE_EXPAND_MAX = 60          # ceiling on nodes pulled in by expansion alone
+
+RETRIEVE_MAX_PAGES_PER_STEM = 12  # page anchors reported per stem
+RETRIEVE_SNIPPET_CHARS = 200
+RETRIEVE_RENDER_NODES = 30        # rows in the markdown node table; --json returns all
+
+# Fan-out.  Counsel holds no corpus access, so every stem goes to a digger and
+# there is no floor: one stem is one digger.
+DIGGER_MAX = 8
+
+# Citation checking.  Quotes are compared after whitespace/case normalisation
+# and presentation-form stripping, because a verbatim slice of an OCR'd page can
+# differ from the memo by invisible characters alone.
+CITE_FETCH_WINDOW = 1             # neighbouring pages included by a page fetch
+CITE_FETCH_MAX_PAGES = 40         # hard ceiling per fetch; the rest must be asked for
+CITE_FUZZY_RATIO = 0.82           # at or above this a quote passes as FUZZY
+CITE_MIN_QUOTE_CHARS = 12         # shorter quotes are not checkable, only located
+
+
 def ensure_dirs() -> None:
     for d in RUNTIME_DIRS:
         d.mkdir(parents=True, exist_ok=True)

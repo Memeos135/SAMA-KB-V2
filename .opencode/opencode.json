@@ -8,8 +8,80 @@
     "external_directory": "deny"
   },
   "agent": {
+    "counsel": {
+      "description": "v2 PRIMARY — deterministic retrieval → parallel dig → full document → self-verified cites",
+      "mode": "primary",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "webfetch": "deny",
+        "websearch": "deny",
+        "external_directory": "deny",
+        "bash": {
+          "*": "deny",
+          "python -m sama.retrieve*": "allow"
+        },
+        "read": "deny",
+        "task": {
+          "*": "deny",
+          "digger": "allow",
+          "auditor": "allow"
+        }
+      }
+    },
+    "digger": {
+      "description": "v2 — verbatim excerpts from assigned stems/pages only; no search, no interpretation",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "webfetch": "deny",
+        "websearch": "deny",
+        "external_directory": "deny",
+        "bash": {
+          "*": "deny",
+          "python -m sama.cite fetch*": "allow"
+        },
+        "read": {
+          "*": "deny",
+          "corpus/markdown/*": "allow",
+          "corpus/markdown/**": "allow"
+        },
+        "task": {
+          "*": "deny"
+        }
+      }
+    },
+    "auditor": {
+      "description": "v2 — fact checker: runs sama.cite verify on counsel's claims, then checks the facet ledger for omissions",
+      "mode": "subagent",
+      "temperature": 0.1,
+      "permission": {
+        "edit": "deny",
+        "glob": "deny",
+        "grep": "deny",
+        "list": "deny",
+        "read": "deny",
+        "webfetch": "deny",
+        "websearch": "deny",
+        "external_directory": "deny",
+        "bash": {
+          "*": "deny",
+          "python -m sama.cite*": "allow"
+        },
+        "task": {
+          "*": "deny"
+        }
+      }
+    },
     "orchestrator": {
-      "description": "Workflow: legal (map→dig) → reviewer → formatter",
+      "description": "v1 PRIMARY — legal (map→dig) → reviewer → formatter",
       "mode": "primary",
       "temperature": 0.1,
       "permission": {
