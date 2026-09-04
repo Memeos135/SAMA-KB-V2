@@ -1,0 +1,10 @@
+{
+  "generated": "2026-09-03T23:20:00.192712+00:00",
+  "nodes_before": 136,
+  "nodes_after": 130,
+  "edges_before": 127,
+  "edges_after": 126,
+  "clusters_merged": 5,
+  "self_loops_dropped": 0,
+  "parallel_edges_dropped": 1
+}

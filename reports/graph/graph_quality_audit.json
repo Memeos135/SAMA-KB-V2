@@ -1,0 +1,4297 @@
+{
+  "generated": "2026-09-04T00:37:04.279700+00:00",
+  "conversion_report_present": true,
+  "scores": {
+    "grounding": {
+      "grade": "A",
+      "value": 1.0,
+      "note": "stored excerpts still present verbatim in their source"
+    },
+    "broken_arabic_exposure": {
+      "grade": "A",
+      "value": 0.0,
+      "note": "share of nodes resting on presentation-form Arabic (lower is better)"
+    },
+    "structure": {
+      "grade": "C",
+      "value": 0.52,
+      "note": "nodes with degree >= 2"
+    },
+    "dedup": {
+      "grade": "A",
+      "value": 1.0,
+      "note": "nodes not in a duplicate-label cluster"
+    },
+    "locator_coverage": {
+      "grade": "B",
+      "value": 0.878,
+      "note": "edges carrying an exact page locator"
+    },
+    "extraction_coverage": {
+      "grade": "B",
+      "value": 0.7601078167115903,
+      "under_extracted": [
+        "SAMA_EN_4283_VER1",
+        "SAMA_EN_6073_VER1",
+        "SAMA_EN_10593_VER1_0",
+        "SAMA_EN_1430_VER1",
+        "SAMA_EN_3837_VER1",
+        "SAMA_EN_11051_VER1",
+        "SAMA_EN_10592_VER1",
+        "SAMA_EN_5491_VER1",
+        "SAMA_EN_4303_VER1",
+        "SAMA_EN_10698_VER1",
+        "SAMA_EN_5565_VER1",
+        "SAMA_EN_2081_VER1",
+        "SAMA_EN_3144_VER1",
+        "SAMA_EN_1611_VER1",
+        "SAMA_EN_3372_VER1",
+        "SAMA_EN_3276_VER1",
+        "SAMA_EN_353_VER1",
+        "SAMA_EN_5547_VER1",
+        "SAMA_EN_10831_VER1",
+        "SAMA_EN_10911_VER1",
+        "SAMA_EN_11011_VER1",
+        "SAMA_EN_11012_VER1",
+        "SAMA_EN_11067_VER1",
+        "SAMA_EN_11078_VER1",
+        "SAMA_EN_11081_VER1",
+        "SAMA_EN_1195_VER1",
+        "SAMA_EN_123_VER1",
+        "SAMA_EN_5885_VER1",
+        "SAMA_EN_1293_VER1",
+        "SAMA_EN_132_VER1_0",
+        "SAMA_EN_1428_VER1",
+        "SAMA_EN_5085_VER1",
+        "SAMA_EN_4778_VER1",
+        "SAMA_EN_5419_VER1",
+        "SAMA_EN_5594_VER1",
+        "SAMA_EN_8984_VER1",
+        "SAMA_EN_9618_VER1",
+        "SAMA_EN_1023_VER1",
+        "SAMA_EN_10335_VER1",
+        "SAMA_EN_10356_VER1",
+        "SAMA_EN_10400_VER1",
+        "SAMA_EN_10417_VER1",
+        "SAMA_EN_10465_VER1",
+        "SAMA_EN_10528_VER",
+        "SAMA_EN_10646_VER1",
+        "SAMA_EN_10668_VER1",
+        "SAMA_EN_10697_VER1",
+        "SAMA_EN_10721_VER1",
+        "SAMA_EN_10865_VER1",
+        "SAMA_EN_10912_VER1",
+        "SAMA_EN_10951_VER1",
+        "SAMA_EN_11008_VER1",
+        "SAMA_EN_11009_VER1",
+        "SAMA_EN_11010_VER1",
+        "SAMA_EN_11015_VER1",
+        "SAMA_EN_11017_VER1",
+        "SAMA_EN_11022_VER1",
+        "SAMA_EN_11025_VER1",
+        "SAMA_EN_11027_VER1",
+        "SAMA_EN_11037_VER1",
+        "SAMA_EN_6324_VER1",
+        "SAMA_EN_11076_VER1",
+        "SAMA_EN_11105_VER1",
+        "SAMA_EN_996_VER1",
+        "SAMA_EN_1722_VER1",
+        "SAMA_EN_2082_VER1",
+        "SAMA_EN_3214_VER1",
+        "SAMA_EN_3246_VER1",
+        "SAMA_EN_4721_VER1",
+        "SAMA_EN_4809_VER1",
+        "SAMA_EN_4838_VER1",
+        "SAMA_EN_4843_VER1",
+        "SAMA_EN_4897_VER1",
+        "SAMA_EN_4926_VER1",
+        "SAMA_EN_5081_VER1",
+        "SAMA_EN_5096_VER1",
+        "SAMA_EN_5536_VER1",
+        "SAMA_EN_5708_VER1",
+        "SAMA_EN_5709_VER1",
+        "SAMA_EN_5858_VER1",
+        "SAMA_EN_6505_VER1_1",
+        "SAMA_EN_6523_VER1",
+        "SAMA_EN_6561_VER1",
+        "SAMA_EN_9538_VER1",
+        "SAMA_EN_961_VER1",
+        "الدليل الإرشادي لاستخدام نظام البيانات الإشرافية_0",
+        "تعديل نظام حماية البيانات الشخصية-م148",
+        "دليل الإخلاء في حالات الطوارئ للأشخاص ذوي الإعاقة",
+        "قرار وزاري رقم 112203 تاريخ 18 06 1442"
+      ],
+      "note": "A-grade documents adequately covered"
+    },
+    "_overall": {
+      "grade": "B",
+      "avg_rank": 4.33,
+      "dimensions_scored": 6,
+      "dimensions_na": 0
+    }
+  },
+  "structural": {
+    "documents": [
+      {
+        "stem": "SAMA_EN_3487_VER1",
+        "nodes": 300,
+        "pdf_pages": 902,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3502_VER1",
+        "nodes": 140,
+        "pdf_pages": 349,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.401,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4234_VER1",
+        "nodes": 92,
+        "pdf_pages": 168,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.548,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3553_VER1",
+        "nodes": 62,
+        "pdf_pages": 175,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.354,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3575_VER1",
+        "nodes": 35,
+        "pdf_pages": 92,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.38,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4283_VER1",
+        "nodes": 35,
+        "pdf_pages": 145,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.241,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5888_VER1",
+        "nodes": 31,
+        "pdf_pages": 56,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.554,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1644_VER1",
+        "nodes": 30,
+        "pdf_pages": 113,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.265,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1704_VER1",
+        "nodes": 23,
+        "pdf_pages": 70,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.329,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4066_VER1",
+        "nodes": 22,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.524,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2217_VER1",
+        "nodes": 20,
+        "pdf_pages": 69,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.29,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9492_VER1",
+        "nodes": 18,
+        "pdf_pages": 52,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.346,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2340_VER1",
+        "nodes": 17,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.405,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4226_VER1",
+        "nodes": 16,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.381,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8383_VER1",
+        "nodes": 15,
+        "pdf_pages": 60,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2788_VER1",
+        "nodes": 15,
+        "pdf_pages": 41,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.366,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6073_VER1",
+        "nodes": 15,
+        "pdf_pages": 76,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.197,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10593_VER1_0",
+        "nodes": 14,
+        "pdf_pages": 57,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.246,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_9451_VER1",
+        "nodes": 14,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.609,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10530_VER1",
+        "nodes": 12,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.571,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1734_VER1",
+        "nodes": 12,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.545,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1430_VER1",
+        "nodes": 12,
+        "pdf_pages": 74,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.162,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_2898_VER1",
+        "nodes": 12,
+        "pdf_pages": 28,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.429,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3837_VER1",
+        "nodes": 12,
+        "pdf_pages": 56,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.214,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10577_VER1",
+        "nodes": 11,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.733,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9068_VER1",
+        "nodes": 11,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.611,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11054_VER1",
+        "nodes": 10,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.625,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2675_VER1_0",
+        "nodes": 10,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.455,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3081_VER1",
+        "nodes": 10,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.435,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11051_VER1",
+        "nodes": 10,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.238,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_3709_VER1",
+        "nodes": 10,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.625,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4878_VER1",
+        "nodes": 9,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11055_VER1",
+        "nodes": 9,
+        "pdf_pages": 25,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.36,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4041_VER1",
+        "nodes": 9,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11044_VER1",
+        "nodes": 8,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10592_VER1",
+        "nodes": 8,
+        "pdf_pages": 57,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.14,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10667_VER1",
+        "nodes": 8,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.348,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1717_VER1",
+        "nodes": 8,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.296,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4736_VER1",
+        "nodes": 8,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.364,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3526_VER1",
+        "nodes": 8,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.364,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3726_VER1",
+        "nodes": 8,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.615,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8357_VER1",
+        "nodes": 7,
+        "pdf_pages": 25,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.28,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10950_VER1",
+        "nodes": 7,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.7,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11021_VER1",
+        "nodes": 7,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.35,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2926_VER1",
+        "nodes": 7,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.389,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11038_VER1",
+        "nodes": 7,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.304,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2274_VER1",
+        "nodes": 7,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.438,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5491_VER1",
+        "nodes": 7,
+        "pdf_pages": 35,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1822_VER1",
+        "nodes": 7,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2757_VER1",
+        "nodes": 7,
+        "pdf_pages": 19,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.368,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4303_VER1",
+        "nodes": 7,
+        "pdf_pages": 32,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.219,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_7136_VER1",
+        "nodes": 7,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.318,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10621_VER1",
+        "nodes": 6,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2389_VER1",
+        "nodes": 6,
+        "pdf_pages": 19,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.316,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_7908_VER1",
+        "nodes": 6,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.375,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2888_VER1",
+        "nodes": 6,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.75,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2948_VER1",
+        "nodes": 6,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.545,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3467_VER1",
+        "nodes": 6,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3689_VER1",
+        "nodes": 5,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9381_VER1",
+        "nodes": 5,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10698_VER1",
+        "nodes": 5,
+        "pdf_pages": 38,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.132,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_791_VER1",
+        "nodes": 5,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.357,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_853_VER1",
+        "nodes": 5,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1989_VER1",
+        "nodes": 5,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.312,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11045_VER1",
+        "nodes": 5,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5565_VER1",
+        "nodes": 5,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.119,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_190_VER1",
+        "nodes": 5,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.385,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3032_VER1",
+        "nodes": 5,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.417,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3366_VER1",
+        "nodes": 5,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.455,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2081_VER1",
+        "nodes": 5,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.227,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1949_VER1",
+        "nodes": 4,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5765_VER1",
+        "nodes": 4,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11043_VER1",
+        "nodes": 4,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10681_VER1",
+        "nodes": 4,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11026_VER1",
+        "nodes": 4,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8359_VER1",
+        "nodes": 4,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3144_VER1",
+        "nodes": 4,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.148,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1611_VER1",
+        "nodes": 4,
+        "pdf_pages": 21,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.19,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1715_VER1",
+        "nodes": 4,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.444,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1868_VER1",
+        "nodes": 4,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2659_VER1",
+        "nodes": 4,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.267,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2864_VER1",
+        "nodes": 4,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3372_VER1",
+        "nodes": 4,
+        "pdf_pages": 20,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_3468_VER1",
+        "nodes": 4,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.571,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4376_VER1",
+        "nodes": 4,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6314_VER1",
+        "nodes": 4,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.571,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8320_VER1_0",
+        "nodes": 4,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.308,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1272_VER1",
+        "nodes": 3,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2327_VER1",
+        "nodes": 3,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.75,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2348_VER1",
+        "nodes": 3,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.75,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10928_VER1",
+        "nodes": 3,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.3,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1897_VER1",
+        "nodes": 3,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1948_VER1",
+        "nodes": 3,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3276_VER1",
+        "nodes": 3,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.188,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_353_VER1",
+        "nodes": 3,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5547_VER1",
+        "nodes": 3,
+        "pdf_pages": 16,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.188,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5840_VER1",
+        "nodes": 3,
+        "pdf_pages": 32,
+        "grade": "D",
+        "score": 0.53,
+        "nodes_per_page": 0.094,
+        "arabic_risk": "medium",
+        "flags": [
+          "bad_source"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10831_VER1",
+        "nodes": 2,
+        "pdf_pages": 38,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.053,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_8684_VER1",
+        "nodes": 2,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10575_VER1",
+        "nodes": 2,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10647_VER1",
+        "nodes": 2,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10832_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10866_VER1",
+        "nodes": 2,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10910_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10911_VER1",
+        "nodes": 2,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.118,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10959_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11011_VER1",
+        "nodes": 2,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.091,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11012_VER1",
+        "nodes": 2,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11056_VER1",
+        "nodes": 2,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11065_VER1",
+        "nodes": 2,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11067_VER1",
+        "nodes": 2,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.222,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11078_VER1",
+        "nodes": 2,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.118,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11079_VER1_1",
+        "nodes": 2,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11081_VER1",
+        "nodes": 2,
+        "pdf_pages": 60,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.033,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11104_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1195_VER1",
+        "nodes": 2,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_123_VER1",
+        "nodes": 2,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5885_VER1",
+        "nodes": 2,
+        "pdf_pages": 51,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.039,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1293_VER1",
+        "nodes": 2,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_132_VER1_0",
+        "nodes": 2,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.154,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1428_VER1",
+        "nodes": 2,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.087,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1429_VER1",
+        "nodes": 2,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.286,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5838_VER1",
+        "nodes": 2,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2126_VER1",
+        "nodes": 2,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3343_VER1",
+        "nodes": 2,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5085_VER1",
+        "nodes": 2,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.154,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4778_VER1",
+        "nodes": 2,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5410_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5419_VER1",
+        "nodes": 2,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.118,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5475_VER1_1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5544_VER1",
+        "nodes": 2,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5594_VER1",
+        "nodes": 2,
+        "pdf_pages": 24,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.083,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_6306_VER1",
+        "nodes": 2,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6398_VER1",
+        "nodes": 2,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6738_VER1",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "إصدار وتحديث وتجديد معرّف الكيانات القانونية من خلال مؤسسة مالية",
+        "nodes": 2,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.4,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8984_VER1",
+        "nodes": 2,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_9618_VER1",
+        "nodes": 2,
+        "pdf_pages": 11,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.182,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_RD%20637_en",
+        "nodes": 2,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 2.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "GDBC-381000095091-1438H",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "Report on Total Remunerations for the Board of Directors and Committees",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA CIRCULAR NO (GDBC-361000009335-1436H)",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA circular No (GDBC-341000107020-1434H)EN",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10175_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10211_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10212_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10220_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10227_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1023_VER1",
+        "nodes": 1,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.083,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10241_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10244_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10245_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10319_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10320_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10322_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10335_VER1",
+        "nodes": 1,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.067,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10356_VER1",
+        "nodes": 1,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.067,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10372_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10394_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10395_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10397_VER",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10398_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10399_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10400_VER1",
+        "nodes": 1,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.083,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10417_VER1",
+        "nodes": 1,
+        "pdf_pages": 12,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.083,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10419_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10426_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10427_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10464_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10465_VER1",
+        "nodes": 1,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.056,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10528_VER",
+        "nodes": 1,
+        "pdf_pages": 18,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.056,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10529_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10555_VER",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10556_VER",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10559_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10560_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10590_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10623_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10640_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10646_VER1",
+        "nodes": 1,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10668_VER1",
+        "nodes": 1,
+        "pdf_pages": 23,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.043,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10697_VER1",
+        "nodes": 1,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.1,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10721_VER1",
+        "nodes": 1,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.1,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10865_VER1",
+        "nodes": 1,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.1,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10888_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10908_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10912_VER1",
+        "nodes": 1,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.059,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10941_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10949_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10951_VER1",
+        "nodes": 1,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_10964_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10967_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10968_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10969_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10971_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_10973_VER1",
+        "nodes": 1,
+        "pdf_pages": 19,
+        "grade": "B",
+        "score": 0.78,
+        "nodes_per_page": 0.053,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11005_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11008_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11009_VER1",
+        "nodes": 1,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.077,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11010_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11015_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11017_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11022_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11025_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11027_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11037_VER1",
+        "nodes": 1,
+        "pdf_pages": 27,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.037,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11039_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6324_VER1",
+        "nodes": 1,
+        "pdf_pages": 10,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.1,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11075_VER1",
+        "nodes": 1,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11076_VER1",
+        "nodes": 1,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.077,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_11082_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11101_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_11105_VER1",
+        "nodes": 1,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_996_VER1",
+        "nodes": 1,
+        "pdf_pages": 17,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.059,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1607_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1608_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1642_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1647_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1648_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1652_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1653_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1654_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1657_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_1722_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_1959_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2082_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_2125_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2572_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2875_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2879_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2880_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2883_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2884_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_2885_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3080_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3154_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3165_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3169_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3178_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3193_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3214_VER1",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_3223_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3243_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3244_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3245_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3246_VER1",
+        "nodes": 1,
+        "pdf_pages": 42,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.024,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_3365_VER1_0",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3490_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3517_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3519_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3521_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_3522_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4128_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4437_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4721_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4725_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8732_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4790_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4809_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4824_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4826_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4827_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4829_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4830_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4833_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4834_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4838_VER1",
+        "nodes": 1,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "low",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4843_VER1",
+        "nodes": 1,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4897_VER1",
+        "nodes": 1,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4913_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4923_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4924_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4926_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_4929_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4934_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4939_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4949_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4957_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4962_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4969_VER1",
+        "nodes": 1,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4983_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_4987_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5021_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5026_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5028_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5030_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5031_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5081_VER1",
+        "nodes": 1,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5096_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5379_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5384_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5392_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5393_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5403_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5404_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5408_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5409_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5425_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5437_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5438_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5441_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5448_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5452_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5454_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.92,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5455_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5464_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5465_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5467_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5471_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5473_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5476_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5477_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5480_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5513_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5525_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5526_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5530_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5536_VER1",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5630_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5636_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5645_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5708_VER1",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5709_VER1",
+        "nodes": 1,
+        "pdf_pages": 7,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.143,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5712_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5783_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5856_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5858_VER1",
+        "nodes": 1,
+        "pdf_pages": 6,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.167,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_5860_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5863_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5864_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5866_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_5879_VER1",
+        "nodes": 1,
+        "pdf_pages": 4,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6493_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6505_VER1_1",
+        "nodes": 1,
+        "pdf_pages": 22,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.045,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_6523_VER1",
+        "nodes": 1,
+        "pdf_pages": 15,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.067,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_6561_VER1",
+        "nodes": 1,
+        "pdf_pages": 14,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.071,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_6595_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "B",
+        "score": 0.7,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "high",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6713_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6734_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_6865_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_7278_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "B",
+        "score": 0.84,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_7355_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8356_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.96,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8673_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8679_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8722_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8724_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8725_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8726_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8727_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8729_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_8731_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9538_VER1",
+        "nodes": 1,
+        "pdf_pages": 5,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.2,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_961_VER1",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "n/a",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "SAMA_EN_9660_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9662_VER1_0",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9663_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9665_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9666_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9667_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9668_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9669_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.98,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9670_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9671_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9672_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9673_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9799_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_979_VER1",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9809_VER1",
+        "nodes": 1,
+        "pdf_pages": 2,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.5,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_EN_9934_VER1",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "medium",
+        "flags": []
+      },
+      {
+        "stem": "SAMA_RD%20M142_en",
+        "nodes": 1,
+        "pdf_pages": 1,
+        "grade": "A",
+        "score": 1.0,
+        "nodes_per_page": 1.0,
+        "arabic_risk": "n/a",
+        "flags": []
+      },
+      {
+        "stem": "الدليل الإرشادي لاستخدام نظام البيانات الإشرافية_0",
+        "nodes": 1,
+        "pdf_pages": 8,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.125,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "النموذج الربعي للعملات وبيانات أكبر العملاء والعملات المزورة وبيانات الموظفين",
+        "nodes": 1,
+        "pdf_pages": 14,
+        "grade": "D",
+        "score": 0.53,
+        "nodes_per_page": 0.071,
+        "arabic_risk": "medium",
+        "flags": [
+          "bad_source"
+        ]
+      },
+      {
+        "stem": "النموذج السنوي للبيانات التنظيمية",
+        "nodes": 1,
+        "pdf_pages": 4,
+        "grade": "C",
+        "score": 0.68,
+        "nodes_per_page": 0.25,
+        "arabic_risk": "medium",
+        "flags": [
+          "garbled_source"
+        ]
+      },
+      {
+        "stem": "نموذج المقارنة للقوائم المالية الربعية و السنوية",
+        "nodes": 1,
+        "pdf_pages": 3,
+        "grade": "B",
+        "score": 0.8,
+        "nodes_per_page": 0.333,
+        "arabic_risk": "low",
+        "flags": []
+      },
+      {
+        "stem": "تعديل نظام حماية البيانات الشخصية-م148",
+        "nodes": 1,
+        "pdf_pages": 13,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.077,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "دليل الإخلاء في حالات الطوارئ للأشخاص ذوي الإعاقة",
+        "nodes": 1,
+        "pdf_pages": 41,
+        "grade": "A",
+        "score": 0.86,
+        "nodes_per_page": 0.024,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      },
+      {
+        "stem": "قرار وزاري رقم 112203 تاريخ 18 06 1442",
+        "nodes": 1,
+        "pdf_pages": 9,
+        "grade": "A",
+        "score": 0.88,
+        "nodes_per_page": 0.111,
+        "arabic_risk": "medium",
+        "flags": [
+          "under_extracted"
+        ]
+      }
+    ],
+    "median_nodes_per_page_AB": 0.5,
+    "degree": {
+      "isolated_count": 182,
+      "degree1_count": 535,
+      "top_hubs": [
+        {
+          "degree": 40,
+          "label": "Finance Companies Control Law"
+        },
+        {
+          "degree": 22,
+          "label": "Banking Control Law"
+        },
+        {
+          "degree": 17,
+          "label": "Anti-Money Laundering Law"
+        },
+        {
+          "degree": 15,
+          "label": "Minimum Capital Requirements for Credit Risk"
+        },
+        {
+          "degree": 14,
+          "label": "SAMA Payment Services Regulation 1430"
+        },
+        {
+          "degree": 14,
+          "label": "Exposure at Default (EAD)"
+        },
+        {
+          "degree": 14,
+          "label": "Template OV1: Overview of RWA"
+        },
+        {
+          "degree": 13,
+          "label": "Board of Directors"
+        },
+        {
+          "degree": 13,
+          "label": "SA-CCR for OTC Derivatives"
+        },
+        {
+          "degree": 13,
+          "label": "Securitization Internal Ratings-Based Approach (SEC-IRBA)"
+        }
+      ]
+    },
+    "locators": {
+      "nodes_with_source_location": 0,
+      "edges_with_page_locator": 1421,
+      "total_nodes": 1495,
+      "total_edges": 1618
+    },
+    "duplicate_clusters": [],
+    "edges": {
+      "confidence": {
+        "INFERRED": 152,
+        "EXTRACTED": 1461,
+        "AMBIGUOUS": 5
+      },
+      "relations": {
+        "references": 1341,
+        "conceptually_related_to": 147,
+        "cites": 101,
+        "semantically_similar_to": 17,
+        "shares_data_with": 11,
+        "implements": 1
+      },
+      "orphan_count": 0,
+      "self_loop_count": 0
+    },
+    "coverage": {
+      "grounded_edges": 1363,
+      "edges_total": 1618,
+      "node_summaries": 1495,
+      "community_blurbs": 332,
+      "edge_narratives": 402
+    }
+  },
+  "grounding": {
+    "excerpts_total": 2816,
+    "checkable": 2816,
+    "grounded": 2816,
+    "rate": 1.0
+  },
+  "grounding_failures": [],
+  "broken_arabic": {
+    "exposed_nodes": 0,
+    "documents": {
+      "SAMA_EN_9451_VER1": 0.0143
+    }
+  },
+  "integrity": {
+    "ok": true,
+    "data": {
+      "schema_version": 1,
+      "summary": {
+        "node_count": 1495,
+        "unverified_node_count": 0,
+        "raw_edge_count": 1618,
+        "non_object_edges": 0,
+        "missing_endpoint_edges": 0,
+        "dangling_endpoint_edges": 0,
+        "self_loop_edges": 0,
+        "valid_candidate_edges": 1618,
+        "exact_duplicate_edges": 0,
+        "directed_unique_endpoint_pairs": 1618,
+        "directed_same_endpoint_collapsed_edges": 0,
+        "undirected_unique_endpoint_pairs": 1618,
+        "undirected_same_endpoint_collapsed_edges": 0,
+        "same_endpoint_group_count": 0,
+        "relation_variant_groups": 0,
+        "source_file_variant_groups": 0,
+        "source_location_variant_groups": 0,
+        "context_variant_groups": 0,
+        "post_build_graph_type": "Graph",
+        "post_build_node_count": 1495,
+        "post_build_edge_count": 1618,
+        "post_build_error": "",
+        "input_path": "C:\\Users\\memeo\\Downloads\\sama-kb-v2\\sama-kb-v2\\graphify-out\\graph.json",
+        "effective_directed": false
+      },
+      "examples": [],
+      "producer_suppression": {
+        "path": "C:\\Users\\memeo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\graphify\\extract.py",
+        "total_sites": 10,
+        "sites": [
+          {
+            "line": 1047,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 1197,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 1199,
+            "name": "seen_doc_refs",
+            "tuple_arity": 0,
+            "sample": "seen_doc_refs: set[str] = set()"
+          },
+          {
+            "line": 1622,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = {n[\"id\"] for n in nodes}"
+          },
+          {
+            "line": 2091,
+            "name": "seen_keys",
+            "tuple_arity": 0,
+            "sample": "seen_keys: set[tuple] = set()"
+          },
+          {
+            "line": 3014,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3122,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3201,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3696,
+            "name": "seen_ids",
+            "tuple_arity": 0,
+            "sample": "seen_ids: set[str] = set()"
+          },
+          {
+            "line": 3697,
+            "name": "seen_edges",
+            "tuple_arity": 4,
+            "sample": "seen_edges: set[tuple[str, str, str, str | None]] = set()"
+          }
+        ],
+        "error": ""
+      },
+      "notes": [
+        "Diagnostics are read-only.",
+        "A normal graph.json is already post-build and cannot recover raw producer edges.",
+        "Producer suppression sites are heuristic source-code evidence."
+      ]
+    }
+  }
+}

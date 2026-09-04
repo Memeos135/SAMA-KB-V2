@@ -1,0 +1,1604 @@
+{
+  "generated": "2026-09-03T23:20:07.823709+00:00",
+  "edges": 126,
+  "both_sides_grounded": 63,
+  "grounding": {
+    "markdown_sama_en_10698_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10721_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10831_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10832_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10865_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10888_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": {
+        "excerpt": "الموضوع: رفع الحد الأعلى الوارد في الفقرة )1( من المادة (الثانية والعشرون) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10888_VER1.md",
+        "offset": 149
+      },
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_11008_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_11009_ver1||markdown_sama_en_11009_ver1_finance_companies_law||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||markdown_sama_en_11010_ver1||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||markdown_sama_en_11011_ver1||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||markdown_sama_en_11012_ver1||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": {
+        "excerpt": "والمادة (التاسعة عشرة) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏ مع التأكيد على عدم إخلال ذلك بالتقيّد بالأحكام الأخرى الواردة في المبادئ.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_11012_VER1.md",
+        "offset": 740
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||markdown_sama_en_11015_ver1||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||markdown_sama_en_11017_ver1||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||sama_en_10335||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": {
+        "excerpt": "Internal Audit Principles for Finance Companies and Real Estate Refinance Companies (September 2024 / Rabi’l 1446H) The Saudi Central Bank (SAMA) issued these Principles based on the powers vested in SAMA under the Finance Companies Control Law issued by Royal Decree No.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10335_VER1.md",
+        "offset": 36
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||sama_en_10356||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": {
+        "excerpt": "Compliance Principles for Finance Companies and Real Estate Refinance Companies (September 2024 / Rabi’l 1446H) The Saudi Central Bank (SAMA) issued these Principles based on the powers vested in SAMA under the Finance Companies Control Law issued by Royal Decree No.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10356_VER1.md",
+        "offset": 36
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||sama_en_10394||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_11009_ver1_finance_companies_law||sama_en_10426||references": {
+      "clause_a": {
+        "excerpt": "English Translation of Finance Companies Control Law Introductory Chapter Definitions Article 1 The following terms and phrases – wherever mentioned in this Law – shall have the meanings assigned thereto unless the context requires otherwise: Law: Finance Companies Control Law.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_1023_VER1.md",
+        "offset": 100
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "sama_en_10335||sama_en_10356||references": {
+      "clause_a": {
+        "excerpt": "Internal Audit Principles for Finance Companies and Real Estate Refinance Companies (September 2024 / Rabi’l 1446H) The Saudi Central Bank (SAMA) issued these Principles based on the powers vested in SAMA under the Finance Companies Control Law issued by Royal Decree No.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10335_VER1.md",
+        "offset": 36
+      },
+      "clause_b": {
+        "excerpt": "Compliance Principles for Finance Companies and Real Estate Refinance Companies (September 2024 / Rabi’l 1446H) The Saudi Central Bank (SAMA) issued these Principles based on the powers vested in SAMA under the Finance Companies Control Law issued by Royal Decree No.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10356_VER1.md",
+        "offset": 36
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "sama_en_10335||sama_en_10529||references": {
+      "clause_a": {
+        "excerpt": "Internal Audit Principles for Finance Companies and Real Estate Refinance Companies (September 2024 / Rabi’l 1446H) The Saudi Central Bank (SAMA) issued these Principles based on the powers vested in SAMA under the Finance Companies Control Law issued by Royal Decree No.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10335_VER1.md",
+        "offset": 36
+      },
+      "clause_b": {
+        "excerpt": "نفيدكم باعتماد دليل المتطلبات الأساسية لمكافحة الاحتيال ‎Counter-Fraud Fundamental) UI‏ ‎(Requirements‏ والذي يهدف إلى تعزيز ممارسات مكافحة الاحتيال وذلك من خلال تطبيق مجموعة من الضوابط الرقابية لتعزيز ورفع مستوى النضج للتعامل مع المخاطر والأنماط والأساليب المتطورة للاحتيال بشكل ",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10529_VER1.md",
+        "offset": 508
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "sama_en_10400||sama_en_10417||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED"
+    },
+    "sama_en_10400||sama_en_10465||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10575_ver1_credit_card_faq||sama_en_10465||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "sama_en_10465||sama_en_10528||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED"
+    },
+    "gdbc_341000107020||gdbc_361000009335||references": {
+      "clause_a": {
+        "excerpt": "With regard to the submission of the attached Prudential returns (Amended LCR), all Banks (except foreign bank's branches) will be expected to provide their returns to SAMA on a monthly basis from month ending 30th June 2013 within 30 days of each month end.",
+        "page": 2,
+        "source_file": "markdown/SAMA circular No (GDBC-341000107020-1434H)EN.md",
+        "offset": 892
+      },
+      "clause_b": {
+        "excerpt": "Consequently, this review also included SAMA's Regulations, Rules, and Guidance documents concerning the Amended LCR of January 2013.",
+        "page": 1,
+        "source_file": "markdown/SAMA CIRCULAR NO (GDBC-361000009335-1436H).md",
+        "offset": 1101
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_anti_fraud_rules_finance||markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_framework||markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_counter_fraud_governance||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_counter_fraud_technology||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_elevated_risk_controls||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_fraud_detection||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_fraud_prevention||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements||markdown_sama_en_10530_ver1_fraud_response||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should periodically conduct Counter-Fraud training to ensure all employees are aware of their responsibilities under applicable Counter-Fraud Policies, Standards and Procedures; promote awareness of fraud risks; create a positive Counter-Fraud culture; and co",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 21169
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_fraud_prevention||markdown_sama_en_10530_ver1_fraud_risk_assessment||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically review and update Counter-Fraud Policy and Procedures to ensure they take into consideration fraud and attempted fraud impacting the Member Organization and the sector; the evolving fraud landscape; the fraud risks and scale of the Member ",
+        "page": 10,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 16645
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should conduct an enterprise-wide Fraud Risk Assessment to identify fraud risks to which they or their customers are subject; inform the controls required based on the level of inherent fraud risk identified for products and services offered; assess the effec",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 18785
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10530_ver1_fraud_detection||markdown_sama_en_10530_ver1_fraud_risk_assessment||references": {
+      "clause_a": {
+        "excerpt": "Member Organizations should periodically review and update Counter-Fraud Policy and Procedures to ensure they take into consideration fraud and attempted fraud impacting the Member Organization and the sector; the evolving fraud landscape; the fraud risks and scale of the Member ",
+        "page": 10,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 16645
+      },
+      "clause_b": {
+        "excerpt": "Member Organizations should conduct an enterprise-wide Fraud Risk Assessment to identify fraud risks to which they or their customers are subject; inform the controls required based on the level of inherent fraud risk identified for products and services offered; assess the effec",
+        "page": 11,
+        "source_file": "markdown/SAMA_EN_10530_VER1.md",
+        "offset": 18785
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_credit_risk||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_equity_investment_risk||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_liquidity_risk||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_market_risk||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_operational_risk||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_psias_rules||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_shariah_governance_framework||markdown_sama_en_10577_ver1_shariah_risk_framework||references": {
+      "clause_a": {
+        "excerpt": "5.1 Principle 1.0: Banks conducting Shari’ah compliant banking activities shall have in place a comprehensive risk management framework, including appropriate board and senior management oversight, to identify, measure, monitor, report and control all relevant risks arising from ",
+        "page": 7,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 10817
+      },
+      "clause_b": {
+        "excerpt": "Objective The Risk Management Framework for Shari’ah Compliant Banking sets out SAMA’s regulatory expectations on banks’ management of risk unique in Shari’ah compliant banking activities to supplement existing risk management requirements issued by SAMA.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 3096
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10577_ver1_operational_risk||markdown_sama_en_10577_ver1_sncr||references": {
+      "clause_a": {
+        "excerpt": "Banks should be aware that the conduct of Shari’ah compliant banking activities may expose the bank to various types of risks including, but not limited to: e Credit Risk Market Risk Operational Risk Liquidity Risk Equity Investment Risk",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 2677
+      },
+      "clause_b": {
+        "excerpt": "Shari’ah Non-compliance Risk (SNCR): The risk of non-compliance resulting from the failure of a bank’s Shari’ah governance mechanism (systems and personnel) that ensure its compliance with Shari’ah rules and principles as determined by its Shari’ah Committee, and may result in ad",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10577_VER1.md",
+        "offset": 5287
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_otc_trade_repository||markdown_sama_en_10592_ver1_prev_circular_42056371||references": {
+      "clause_a": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 941
+      },
+      "clause_b": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 941
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_otc_trade_repository||markdown_sama_en_10592_ver1_section_a_reporting||references": {
+      "clause_a": {
+        "excerpt": "30/360 or Actual/365 33 Section 2j— | Series The series number of the composition of the | Integer field up to 5 characters Credit index if applicable derivatives Trade Repository Reporting and Risk Version Issue Date Page Number Mitigation Requirements for Over-the- Counter (OTC",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 72912
+      },
+      "clause_b": {
+        "excerpt": "30/360 or Actual/365 33 Section 2j— | Series The series number of the composition of the | Integer field up to 5 characters Credit index if applicable derivatives Trade Repository Reporting and Risk Version Issue Date Page Number Mitigation Requirements for Over-the- Counter (OTC",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 72912
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_otc_trade_repository||markdown_sama_en_10592_ver1_section_b_risk_mitigation||references": {
+      "clause_a": {
+        "excerpt": "30/360 or Actual/365 33 Section 2j— | Series The series number of the composition of the | Integer field up to 5 characters Credit index if applicable derivatives Trade Repository Reporting and Risk Version Issue Date Page Number Mitigation Requirements for Over-the- Counter (OTC",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 72912
+      },
+      "clause_b": {
+        "excerpt": "30/360 or Actual/365 33 Section 2j— | Series The series number of the composition of the | Integer field up to 5 characters Credit index if applicable derivatives Trade Repository Reporting and Risk Version Issue Date Page Number Mitigation Requirements for Over-the- Counter (OTC",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 72912
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_otc_trade_repository||markdown_sama_en_10593_ver1_0_otc_trade_repository||semantically_similar_to": {
+      "clause_a": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 941
+      },
+      "clause_b": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 943
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference.",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10592_ver1_section_a_reporting||markdown_sama_en_10592_ver1_upi||references": {
+      "clause_a": {
+        "excerpt": "15 Section 2c - ١ Unique trade | The UTI ID could be the same as the \"Internal | Up to 52 alphanumerical character code using Details on the | ID unique trade id\" except in those trades in which | exclusively upper-case alphabetical characters (A-Z) transaction the other counterp",
+        "page": 26,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 40205
+      },
+      "clause_b": {
+        "excerpt": "2 6 Section 2b-— | Product The product shall be identified through ISIN or | For product identifier type I: ISO 6166 ISIN 12- Contract identification | UPI depending on the identifier availability.",
+        "page": 22,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 35527
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_section_a_reporting||markdown_sama_en_10593_ver1_0_unique_trade_id||references": {
+      "clause_a": {
+        "excerpt": "15 Section 2c - ١ Unique trade | The UTI ID could be the same as the \"Internal | Up to 52 alphanumerical character code using Details on the | ID unique trade id\" except in those trades in which | exclusively upper-case alphabetical characters (A-Z) transaction the other counterp",
+        "page": 26,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 40205
+      },
+      "clause_b": {
+        "excerpt": "15 Section 2c - ١ Unique trade | The UTI ID could be the same as the \"Internal | Up to 52 alphanumerical character code using Details on the | ID unique trade id\" except in those trades in which | exclusively upper-case alphabetical characters (A-Z) transaction the other counterp",
+        "page": 26,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 40205
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_action_type||markdown_sama_en_10593_ver1_0_unique_trade_id||shares_data_with": {
+      "clause_a": {
+        "excerpt": "An interbranch transaction refers to a principal-to-principal transaction (or a back-to-back transaction) conducted between different branches of the same bank, including any transaction undertaken to transfer the risk of the transaction (or portfolio transactions) from one branc",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 8148
+      },
+      "clause_b": {
+        "excerpt": "Until a global Unique transaction identifier (UTI) is available, an internal unique trade identifier code shall be generated.",
+        "page": 25,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 38647
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it.",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10593_ver1_0_common_data||markdown_sama_en_10593_ver1_0_unique_trade_id||references": {
+      "clause_a": {
+        "excerpt": "— a previously submitted report contains erroneous data fields, in which case the report correcting the erroneous data fields of the previous report shall be identified as ‘correction’;",
+        "page": 40,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 59904
+      },
+      "clause_b": {
+        "excerpt": "Until a global Unique transaction identifier (UTI) is available, an internal unique trade identifier code shall be generated.",
+        "page": 25,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 38647
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_lei||markdown_sama_en_10593_ver1_0_unique_trade_id||references": {
+      "clause_a": {
+        "excerpt": "Section 2;— | Reference entity | Identification of the underlying reference | ISO 3166 - 2 character country code Credit entity (issuer of the debt that uderlines a credit | or derivatives derivative) ISO 17442 Legal Entity Identifier (LEI) 20 alphanumerical character code or For",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 71916
+      },
+      "clause_b": {
+        "excerpt": "Until a global Unique transaction identifier (UTI) is available, an internal unique trade identifier code shall be generated.",
+        "page": 25,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 38647
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10592_ver1_prev_circular_42056371||markdown_sama_en_10593_ver1_0_otc_trade_repository||references": {
+      "clause_a": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10592_VER1.md",
+        "offset": 941
+      },
+      "clause_b": {
+        "excerpt": "Trade Repository Reporting and Risk Mitigation Requirements for Over-the-Counter (OTC) Derivatives Contracts",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 943
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_collateral_data||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "3 13 Parties to the | Currency of the | Specify the currency of the excess collateral | ISO 4217 Currency Code, 3 alphabetical characters contract - excess collateral | posted Collateral posted 3 14 Parties to the | Excess Value of collateral received in excess of the | Up to 20 ",
+        "page": 43,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 64836
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_common_data||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "— a previously submitted report contains erroneous data fields, in which case the report correcting the erroneous data fields of the previous report shall be identified as ‘correction’;",
+        "page": 40,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 59904
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_counterparty_data||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "e Local financial counterparty vs International financial counterparty / Qualified Non - financial counterparty: Under the assumption that the other counterparty is an international financial counterparty or international qualified non-financial counterparty, the local financial ",
+        "page": 57,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 88332
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_dispute_resolution||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_governance||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "30/360 or Actual/365 33 Section 2j— | Series The series number of the composition of the | Integer field up to 5 characters Credit index if applicable derivatives Trade Repository Reporting and Risk Version Issue Date Page Number Mitigation Requirements for Over-the- Counter (OTC",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 72914
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_portfolio_compression||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "17 Section 2c - | Compression Identify whether the contract results from a | Y = anew contract arising from compression Details on compression operation as defined in Article | N = contract does not result from compression the 3.1.5 of the Trade Repository (TR) Reporting | T = co",
+        "page": 44,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 66308
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_portfolio_reconciliation||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_reporting_obligation||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "If, however, the transaction is booked in KSA branch of Bank Y, reporting obligation rules must be applied to determine the reporting counterparty as per the single sided reporting obligation approach as mentioned in Appendix C.",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 6863
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0||markdown_sama_en_10593_ver1_0_valuation||references": {
+      "clause_a": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "clause_b": {
+        "excerpt": "Reportable transactions include interest rate derivatives, a foreign exchange (FX) derivatives, equity derivatives, credit derivatives and commodity derivatives supported by the SAMA authorised Trade Repository;",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 5822
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_counterparty_data||markdown_sama_en_10593_ver1_0_lei||references": {
+      "clause_a": {
+        "excerpt": "e Local financial counterparty vs International financial counterparty / Qualified Non - financial counterparty: Under the assumption that the other counterparty is an international financial counterparty or international qualified non-financial counterparty, the local financial ",
+        "page": 57,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 88332
+      },
+      "clause_b": {
+        "excerpt": "Section 2;— | Reference entity | Identification of the underlying reference | ISO 3166 - 2 character country code Credit entity (issuer of the debt that uderlines a credit | or derivatives derivative) ISO 17442 Legal Entity Identifier (LEI) 20 alphanumerical character code or For",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 71916
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_action_type||markdown_sama_en_10593_ver1_0_common_data||references": {
+      "clause_a": {
+        "excerpt": "An interbranch transaction refers to a principal-to-principal transaction (or a back-to-back transaction) conducted between different branches of the same bank, including any transaction undertaken to transfer the risk of the transaction (or portfolio transactions) from one branc",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 8148
+      },
+      "clause_b": {
+        "excerpt": "— a previously submitted report contains erroneous data fields, in which case the report correcting the erroneous data fields of the previous report shall be identified as ‘correction’;",
+        "page": 40,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 59904
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_common_data||markdown_sama_en_10593_ver1_0_isin||references": {
+      "clause_a": {
+        "excerpt": "— a previously submitted report contains erroneous data fields, in which case the report correcting the erroneous data fields of the previous report shall be identified as ‘correction’;",
+        "page": 40,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 59904
+      },
+      "clause_b": {
+        "excerpt": "2 6 Section 2b-— | Product The product shall be identified through ISIN or | For product identifier type I: ISO 6166 ISIN 12- Contract identification | UPI depending on the identifier availability.",
+        "page": 22,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 35529
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_common_data||markdown_sama_en_10593_ver1_0_upi||references": {
+      "clause_a": {
+        "excerpt": "— a previously submitted report contains erroneous data fields, in which case the report correcting the erroneous data fields of the previous report shall be identified as ‘correction’;",
+        "page": 40,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 59904
+      },
+      "clause_b": {
+        "excerpt": "2 6 Section 2b-— | Product The product shall be identified through ISIN or | For product identifier type I: ISO 6166 ISIN 12- Contract identification | UPI depending on the identifier availability.",
+        "page": 22,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 35529
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10593_ver1_0_lei||markdown_sama_en_10593_ver1_0_reporting_obligation||references": {
+      "clause_a": {
+        "excerpt": "Section 2;— | Reference entity | Identification of the underlying reference | ISO 3166 - 2 character country code Credit entity (issuer of the debt that uderlines a credit | or derivatives derivative) ISO 17442 Legal Entity Identifier (LEI) 20 alphanumerical character code or For",
+        "page": 49,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 71916
+      },
+      "clause_b": {
+        "excerpt": "If, however, the transaction is booked in KSA branch of Bank Y, reporting obligation rules must be applied to determine the reporting counterparty as per the single sided reporting obligation approach as mentioned in Appendix C.",
+        "page": 5,
+        "source_file": "markdown/SAMA_EN_10593_VER1_0.md",
+        "offset": 6863
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10621_ver1||markdown_sama_en_10621_ver1_basel||references": {
+      "clause_a": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "clause_b": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10621_ver1||markdown_sama_en_10621_ver1_shock_scenarios||references": {
+      "clause_a": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "clause_b": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10621_ver1_eve_nii||markdown_sama_en_10621_ver1_shock_scenarios||references": {
+      "clause_a": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "clause_b": {
+        "excerpt": "Banks should apply six prescribed interest rate shock scenarios to capture parallel and nonparallel gap risks for EVE and two prescribed interest rate shock scenarios for NII.",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10621_VER1.md",
+        "offset": 1082
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10646_ver1||markdown_sama_en_10647_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_alerts||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_aml||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_freezing||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_sanctions_lists||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_screening||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10667_ver1_unsc||references": {
+      "clause_a": {
+        "excerpt": "ا على المؤسسة المالية متابعة الموقع الإلكتروني للجنة الدائمة المعنية بتطبيق قرارات مجلس الأمن الصادرة وفق الفصل السابع بوزارة الخارجية ‎(securitycouncil.mofa.gov.sa)‏ للحصول على معلومات وتحديثات تشمل آلية تطبيق قرارات مجلس الأمن ‎Abad!",
+        "page": 23,
+        "source_file": "markdown/SAMA_EN_10667_VER1.md",
+        "offset": 33564
+      },
+      "clause_b": {
+        "excerpt": "ا على المؤسسة المالية متابعة الموقع الإلكتروني للجنة الدائمة المعنية بتطبيق قرارات مجلس الأمن الصادرة وفق الفصل السابع بوزارة الخارجية ‎(securitycouncil.mofa.gov.sa)‏ للحصول على معلومات وتحديثات تشمل آلية تطبيق قرارات مجلس الأمن ‎Abad!",
+        "page": 23,
+        "source_file": "markdown/SAMA_EN_10667_VER1.md",
+        "offset": 33564
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1||markdown_sama_en_10668_ver1||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1_sanctions_lists||markdown_sama_en_10667_ver1_screening||conceptually_related_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10667_ver1_alerts||markdown_sama_en_10667_ver1_freezing||conceptually_related_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10681_ver1||markdown_sama_en_10681_ver1_admin_fees||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10681_ver1||markdown_sama_en_10681_ver1_consumer_finance_controls||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10681_ver1||markdown_sama_en_10681_ver1_consumer_protection||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10681_ver1||markdown_sama_en_10697_ver1||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10681_ver1_admin_fees||markdown_sama_en_10681_ver1_consumer_finance_controls||conceptually_related_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED"
+    },
+    "concept_aml_ctf_law||markdown_sama_en_10698_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10698_ver1||markdown_sama_en_10698_ver1_capital||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10698_ver1||markdown_sama_en_10698_ver1_licensing||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10698_ver1||markdown_sama_en_10698_ver1_micro_finance||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10698_ver1||markdown_sama_en_10831_ver1||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10698_ver1_capital||markdown_sama_en_10698_ver1_micro_finance||conceptually_related_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10721_ver1||markdown_sama_en_10831_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "concept_aml_ctf_law||markdown_sama_en_10831_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10831_ver1||markdown_sama_en_10866_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10831_ver1||markdown_sama_en_10908_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10721_ver1||markdown_sama_en_10865_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10721_ver1||markdown_sama_en_10866_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10721_ver1||markdown_sama_en_10908_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "concept_governance_principles||markdown_sama_en_10910_ver1||references": {
+      "clause_a": {
+        "excerpt": "‎1G‏ إرسال التقييم وخطة العمل المعتمدة على البريد الالكتروني: ‎(ComplianceFCC@SAMA.GOV.SA)‏ في موعد أقصاه )1( ‎logs‏ من تاريخ صدور هذا التعميم.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10910_VER1.md",
+        "offset": 1115
+      },
+      "clause_b": {
+        "excerpt": "‎1G‏ إرسال التقييم وخطة العمل المعتمدة على البريد الالكتروني: ‎(ComplianceFCC@SAMA.GOV.SA)‏ في موعد أقصاه )1( ‎logs‏ من تاريخ صدور هذا التعميم.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_10910_VER1.md",
+        "offset": 1115
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "concept_aml_ctf_law||markdown_sama_en_10911_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10911_ver1||markdown_sama_en_10912_ver1||semantically_similar_to": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Relation is a similarity heuristic, not a cross-reference. No supporting sentence found on at least one side.",
+      "relation": "semantically_similar_to",
+      "confidence": "EXTRACTED"
+    },
+    "concept_aml_ctf_law||markdown_sama_en_10912_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "concept_payment_services_law||markdown_sama_en_10950_ver1||references": {
+      "clause_a": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "clause_b": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "concept_pfmi||markdown_sama_en_10950_ver1||references": {
+      "clause_a": {
+        "excerpt": "‎.\"(Framework for Financial Market Infrastructures ‏الإشرافي‎ py sill ‏ب)‎",
+        "page": 9,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 10628
+      },
+      "clause_b": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10950_ver1||markdown_sama_en_10950_ver1_law_payments||references": {
+      "clause_a": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "clause_b": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10950_VER1.md",
+        "offset": 5352
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10950_ver1||markdown_sama_en_10950_ver1_self_assessment||references": {
+      "clause_a": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "clause_b": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10950_VER1.md",
+        "offset": 5352
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10950_ver1||markdown_sama_en_10950_ver1_supervisory_assessment||references": {
+      "clause_a": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10928_VER1.md",
+        "offset": 5352
+      },
+      "clause_b": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10950_VER1.md",
+        "offset": 5352
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10950_ver1_law_payments||markdown_sama_en_10951_ver1_implementing_regulation||references": {
+      "clause_a": {
+        "excerpt": "4 ‏اام »6“انظر‎ Bank Oversight of Payment and Settlement Systems, www.bis.ore/cpmi/publ/d1A.pdi\".",
+        "page": 6,
+        "source_file": "markdown/SAMA_EN_10950_VER1.md",
+        "offset": 5352
+      },
+      "clause_b": {
+        "excerpt": "Saudi Central Bank Guidelines to Apply for Payment Service Providers License Introduction: 1 The Implementing Regulation of the Law of Payments and Payment Services stipulated the articles regulating licensing and the requirements necessary for engaging in payment activities and ",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10951_VER1.md",
+        "offset": 132
+      },
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_10951_ver1||markdown_sama_en_10951_ver1_appendix_a||references": {
+      "clause_a": {
+        "excerpt": "Saudi Central Bank Guidelines to Apply for Payment Service Providers License Introduction: 1 The Implementing Regulation of the Law of Payments and Payment Services stipulated the articles regulating licensing and the requirements necessary for engaging in payment activities and ",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10951_VER1.md",
+        "offset": 132
+      },
+      "clause_b": {
+        "excerpt": "Saudi Central Bank Guidelines to Apply for Payment Service Providers License Introduction: 1 The Implementing Regulation of the Law of Payments and Payment Services stipulated the articles regulating licensing and the requirements necessary for engaging in payment activities and ",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10951_VER1.md",
+        "offset": 132
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10951_ver1||markdown_sama_en_10951_ver1_implementing_regulation||references": {
+      "clause_a": {
+        "excerpt": "Saudi Central Bank Guidelines to Apply for Payment Service Providers License Introduction: 1 The Implementing Regulation of the Law of Payments and Payment Services stipulated the articles regulating licensing and the requirements necessary for engaging in payment activities and ",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10951_VER1.md",
+        "offset": 132
+      },
+      "clause_b": {
+        "excerpt": "Saudi Central Bank Guidelines to Apply for Payment Service Providers License Introduction: 1 The Implementing Regulation of the Law of Payments and Payment Services stipulated the articles regulating licensing and the requirements necessary for engaging in payment activities and ",
+        "page": 2,
+        "source_file": "markdown/SAMA_EN_10951_VER1.md",
+        "offset": 132
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10959_ver1||markdown_sama_en_10959_ver1_aml_law||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10959_ver1||markdown_sama_en_10959_ver1_beneficial_owner||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10959_ver1_aml_law||markdown_sama_en_11005_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10959_ver1_beneficial_owner||markdown_sama_en_11005_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10968_ver1||markdown_sama_en_10968_ver1_finance_lease_law||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10968_ver1_finance_lease_law||markdown_sama_en_11009_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_10971_ver1||markdown_sama_en_11011_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_11008_ver1||markdown_sama_en_11008_ver1_apr||references": {
+      "clause_a": {
+        "excerpt": "‏معدل النسبة السنوي | هو معدل الخصم الذي تكون فيه القيمة الحالية لجميع الأقساط والدفعات الأخرى المستحقة ‎:(APR)‏ على المستفيد.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_11008_VER1.md",
+        "offset": 1968
+      },
+      "clause_b": {
+        "excerpt": "‏معدل النسبة السنوي | هو معدل الخصم الذي تكون فيه القيمة الحالية لجميع الأقساط والدفعات الأخرى المستحقة ‎:(APR)‏ على المستفيد.",
+        "page": 4,
+        "source_file": "markdown/SAMA_EN_11008_VER1.md",
+        "offset": 1968
+      },
+      "caveat": null,
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1||markdown_sama_en_11009_ver1_dbr||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1||markdown_sama_en_11011_ver1_real_estate_finance_law||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1||markdown_sama_en_11012_ver1||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "والمادة (التاسعة عشرة) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏ مع التأكيد على عدم إخلال ذلك بالتقيّد بالأحكام الأخرى الواردة في المبادئ.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_11012_VER1.md",
+        "offset": 740
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11009_ver1_dbr||markdown_sama_en_11012_ver1||references": {
+      "clause_a": null,
+      "clause_b": {
+        "excerpt": "والمادة (التاسعة عشرة) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏ مع التأكيد على عدم إخلال ذلك بالتقيّد بالأحكام الأخرى الواردة في المبادئ.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_11012_VER1.md",
+        "offset": 740
+      },
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11011_ver1||markdown_sama_en_11011_ver1_real_estate_finance_law||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11011_ver1||markdown_sama_en_11017_ver1||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "Link is inferred, not stated in the text — verify the primary instrument before relying on it. No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "INFERRED"
+    },
+    "markdown_sama_en_11012_ver1||markdown_sama_en_11015_ver1||references": {
+      "clause_a": {
+        "excerpt": "والمادة (التاسعة عشرة) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏ مع التأكيد على عدم إخلال ذلك بالتقيّد بالأحكام الأخرى الواردة في المبادئ.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_11012_VER1.md",
+        "offset": 740
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11012_ver1||markdown_sama_en_11017_ver1||references": {
+      "clause_a": {
+        "excerpt": "والمادة (التاسعة عشرة) من قواعد تنظيم شركات الدفع الآجل ‎(BNPL)‏ مع التأكيد على عدم إخلال ذلك بالتقيّد بالأحكام الأخرى الواردة في المبادئ.",
+        "page": 1,
+        "source_file": "markdown/SAMA_EN_11012_VER1.md",
+        "offset": 740
+      },
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    },
+    "markdown_sama_en_11015_ver1||markdown_sama_en_11015_ver1_sama_law||references": {
+      "clause_a": null,
+      "clause_b": null,
+      "caveat": "No supporting sentence found on at least one side.",
+      "relation": "references",
+      "confidence": "EXTRACTED"
+    }
+  }
+}

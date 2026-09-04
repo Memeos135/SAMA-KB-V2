@@ -1,0 +1,324 @@
+# SAMA_EN_1293_VER1.pdf
+
+## Page 1
+
+Saudi Central Bank Law
+Royal Decree No. M/36
+November 26, 2020
+
+## Page 2
+
+NOTE:
+The translation of Saudi laws takes the following into consideration:
+ Words used in the singular form include the plural and vice versa.  
+ Words used in the masculine form include the feminine.  
+ Words used in the present tense include the present as well as the future.  
+ The word “person” or “persons” and their related pronouns (he, his, him, they, their,
+them) refer to a natural and legal person.
+2
+
+## Page 3
+
+Saudi Central Bank Law
+Chapter 1: Definitions and General Provisions
+Article 1
+In this Law, the following terms and phrases shall have the meanings assigned thereto:
+Bank: The Saudi Central Bank.
+Law: The Saudi Central Bank Law.
+Board: The board of directors of the Bank.
+Governor: The governor of the Bank.
+Financial Institution: Any natural or legal person subject to the supervision, oversight, and 
+regulation of the Bank.
+Article 2
+The Bank is a financially and administratively independent legal person which reports to the 
+King. Its headquarters shall be in the city of Riyadh, and it may establish branches or cash 
+centers within the Kingdom and open offices or appoint agents and correspondents abroad.
+Article 3
+The objectives of the Bank are as follows:
+1. Maintaining monetary stability. 
+2. Supporting the stability of the financial sector and promoting trust therein. 
+3. Supporting economic growth.
+Article 4
+The Bank shall carry out its duties in accordance with the provisions of this Law, the regulations 
+and policies issued by the Board, and best international standards and practices. To achieve 
+its objectives, the Bank shall have all the necessary powers and carry out the following duties, 
+powers, and competences:
+1. Issuing and regulating currency, including minting, printing, issuing, circulating, 
+withdrawing, canceling, managing, and protecting the national currency, and other related 
+activities, without prejudice to the provisions of the Saudi Arabian Monetary Law. 
+2. Overseeing and supervising financial institutions in accordance with relevant laws. 
+3. Issuing regulations and directives related to financial institutions and their operations. 
+4. Formulating and conducting a monetary policy, and regulating the foreign currency 
+exchange market. 
+5. Managing and investing foreign currency reserves. 
+6. Acting as the government’s bank and adviser on monetary, banking, and financial affairs. 
+7. Establishing, developing, and operating infrastructures of national payment, settlement, 
+and clearing systems; issuing rules, directives, and licenses; and overseeing and supervising
+3
+
+## Page 4
+
+payment, settlement, and clearing systems within its jurisdiction. 
+8. Establishing, developing, and operating financial technology platforms; issuing relevant 
+rules, instructions and licenses; and overseeing and supervising such platforms. 
+9. Issuing directives and developing procedures to protect consumers of financial institutions. 
+10. Formulating and managing prudential policies and taking necessary actions and measures 
+for financial institutions, as well as taking necessary measures and procedures to 
+contribute in addressing economic and financial upheavals and crises, whether locally, 
+regionally, or globally.  
+11. Taking appropriate procedures and measures to prevent the commission of crimes 
+associated with financial institutions. 
+12. Representing and participating in regional and international organizations, authorities, 
+forums, and conferences in which the Bank engages as a member, in accordance with 
+legal procedures. 
+13. Cooperating and exchanging expertise with other central banks and counterparts, 
+regional and international organizations, and specialized consulting firms inside the 
+Kingdom and abroad, within its jurisdiction. 
+14. Developing and setting professional tests and requirements related to financial 
+institutions and their operations. 
+15. Conducting research and studies and publishing statistics related to its jurisdiction. 
+16. Establishing subsidiary companies, contributing to the incorporation of companies, and 
+partnering with companies that carry out activities related to the nature of its business, 
+in accordance with legal procedures. 
+17. Proposing draft laws related to financial institutions and the financial sector, proposing 
+amendments to existing laws, and submitting the same for completion of legal 
+procedures; drafting and proposing draft laws or amendments to existing laws that may 
+impact monetary conditions or the stability of the financial sector shall be made in 
+coordination with the Bank. 
+18. Defining the terms and interpreting the provisions of this Law.
+Article 5
+The Bank may charge fees for the licenses and approvals it issues, services it provides, and 
+transactions it carries out, as well as fees to cover the cost of supervising financial institutions, 
+in accordance with guidelines approved by the Board.
+Article 6
+The Bank may not:
+1. engage in commerce, participate in commercial businesses, or hold an interest in any 
+commercial, industrial, or agricultural project, unless necessary to achieve its objectives; 
+2. purchase or own real property, unless necessary for its operations or the diversification of 
+its foreign investments; 
+3. finance and extend loans to the government; and 
+4. finance or extend loans to any natural or legal person; for the purpose of managing liquidity 
+or dealing with crises, financial institutions shall be excluded from this provision pursuant 
+to a decision by the Governor, in accordance with guidelines set by the Board.
+4
+
+## Page 5
+
+Article 7
+The Bank’s assets, revenues, and properties shall have immunity; they may not be searched, 
+blocked, seized, confiscated, or expropriated, and shall not be subject to any bankruptcy 
+procedures.
+Chapter 2: Management
+Board of Directors
+Article 8
+1. The Bank shall have a board of directors composed of the following: 
+a) The Governor, Chairman. 
+b) Two Vice Governors, Members. 
+c) Five non-government employees, members. 
+1 bis - If the Governor is unable to chair a Board meeting, he shall assign one of the Vice 
+Governors to chair the meeting. 
+2. Nomination of Board members referred to in paragraph 1(c) of this Article shall be made 
+jointly by the Governor and the Minister of Finance; their appointment shall be pursuant 
+to a royal order, and their membership shall be for a renewable term of seven years. If a 
+member’s term expires without his membership being renewed or a replacement being 
+appointed, he shall continue to serve as a Board member. 
+3. The remuneration and benefits of Board members shall be determined pursuant to a royal 
+order upon the recommendation of the Minister of Finance in coordination with the 
+Governor.
+Article 9
+Any of the Board members referred to in Article 8(1)(c) of this Law shall satisfy the following 
+conditions:
+1. Be a Saudi citizen. 
+2. Be a qualified and an expert in matters related to the Bank’s activities. 
+3. Have no criminal record related to crimes impinging on honor or integrity, unless such 
+record has been expunged. 
+4. Have never been declared bankrupt or insolvent, nor intentionally defaulted on paying his 
+debts. 
+5. Not hold any position or job with a public entity or a financial institution, nor serve as an 
+auditor thereof. 
+6. Not be an owner or agent of an external auditor’s office.
+Article 10
+1. The Board shall supervise the Bank’s activities and shall be generally responsible for 
+ensuring the soundness of its management and functioning, and shall, to this end and in 
+accordance with the Bank’s objectives, have all the necessary powers. The Board may set 
+the rules, regulations, and policies and issue the directives it deems necessary and
+5
+
+## Page 6
+
+appropriate for carrying out Bank activities in accordance with this Law; they shall include, 
+but not be limited to, the following: 
+a) Endorsing the Bank’s strategies and operational plans. 
+b) Approving the Bank’s by-laws, as well as its administrative, financial, technical,
+monitoring, and human resources regulations. 
+c) Approving the Bank’s organizational structure. 
+d) Determining the Bank’s fiscal year. 
+e) Endorsing the Bank’s general budget and closing accounts. 
+f) Endorsing the appointment of one or more of the Bank’s external auditors and
+determining their fees. 
+g) Establishing Bank branches or offices. 
+h) Reviewing the Bank’s periodic reports. 
+2. The Board may, in order to carry out its duties, form standing or interim committees from 
+among its members or others and assign thereto any necessary powers and competences. 
+The committee formation decision shall designate its chairman and members and shall 
+determine its powers and remuneration. The committee may seek the assistance of any 
+person it deems necessary to carry out its duties.  
+3. The Board may delegate some of its powers to the Governor who may in turn, according to 
+the guidelines and authority matrix endorsed by the Board, delegate said powers to 
+whomever it deems fit from among Bank staff.
+Article 11
+1. The Board shall convene every three months upon a call by its Chairman; it may also 
+convene whenever necessary upon a call by its Chairman or at the request of at least three 
+members. 
+2. A Board meeting shall only be valid if attended by the majority of its members, provided 
+the Chairman or the assigned Vice Governor is present. 
+3. Board decisions shall be passed by majority vote of attending members. In case of a tie, the 
+chairman of the meeting shall have the casting vote. Voting may be carried out 
+electronically. 
+4. The Board may invite experts and specialists from among Bank staff or others to attend its 
+meetings in a non-voting capacity to provide advice, data, or clarifications as requested by 
+the Board. 
+5. The Board shall appoint a secretary from among Bank staff, and shall determine his duties, 
+remuneration, and term of appointment.
+6. Board decisions and meeting minutes shall be recorded and shall be signed by the 
+chairman of the meeting, attending members, and the secretary.
+Article 12
+The Governor shall submit to the King a request to appoint a replacement Board member, in 
+accordance with Article 8(2) of this Law, if a member:
+1. dies; 
+2. no longer satisfies the membership requirements stipulated under this Law; 
+3. requests to be discharged; 
+4. does not attend three consecutive meetings and does not provide an acceptable excuse to 
+the Board or obtain the consent of the Chairman;
+6
+
+## Page 7
+
+5. becomes unable to perform his duties for any reason; or 
+6. grossly breaches any of his duties, as determined by the Board.
+Article 13: The Governor, Vice-Governors, and Bank Staff
+The Bank shall have a full-time governor at the rank of Minister; his appointment and benefits 
+shall be determined pursuant to a royal order. The Governor shall manage the Bank’s 
+activities, implement its policies, and carry out its duties. He shall also carry out, in accordance 
+with this Law, any other activities he deems necessary and appropriate, particularly the 
+following:
+1. Implementing Board decisions.
+2. Providing periodic reports to the Board regarding Bank operations, activities, and 
+achievements.
+3. Providing recommendations to the Board regarding matters falling within its jurisdiction.
+4. Representing the Bank before the judiciary and in its relationship with others, and he may 
+delegate such duty.
+5. Carrying out Bank duties and exercising its powers according to the guidelines and authority 
+matrix endorsed by the Board.
+6. Proposing Bank strategies and operational plans.
+7. Concluding agreements and contracts.
+8. Appointing Bank staff, contracting with experts and consultants within the Kingdom or 
+abroad, and determining their benefits, subject to Board endorsement.
+9. Establishing cash centers and appointing agents and correspondents.
+The Governor may delegate some of his powers to whomever he deems fit from among Bank 
+staff.
+Article 14
+1. The Governor shall have two full-time Vice Governors to assist him in the discharge of his 
+duties. The Board shall, upon a recommendation by the Governor, issue a decision 
+specifying the powers, functions, and duties of each Vice Governor. The Vice Governors 
+shall not participate in deliberations involving such decision nor vote thereon. 
+2. The Vice Governors shall, upon the recommendation of the Governor, be appointed at 
+grade ‘Excellent’; their benefits shall be determined pursuant to a royal order. 
+3. The Governor shall, in his absence, assign one of the Vice Governors to serve as acting 
+governor.
+Article 15
+Bank staff may not be subject to any liability or claim due to carrying out their duties in 
+accordance with this Law, except in cases of bad faith or gross breach.
+7
+
+## Page 8
+
+Article 16: Conflict of Interest
+1. A Board member shall disclose any direct or indirect conflict of interest, whether it exists 
+prior to or during the performance of his duties. Said member may not vote on any matter 
+involving a conflict of interest. 
+2. Bank staff shall disclose any direct conflict of interest and shall not, in matters involving 
+conflict of interest, be involved in the decision making process or related procedures nor 
+express his opinion thereon.
+Chapter 3: Monetary Policy
+Article 17
+The Bank is solely responsible for formulating and implementing the monetary policy, and 
+selecting its operational instruments and procedures.
+Chapter 4: External Auditor
+Article 18
+1. The Bank’s accounts shall be audited by an external auditor, or more, who must be 
+technically qualified and have expertise in Bank activities. Said auditor shall directly report 
+to the Board and submit his reports thereto. 
+2. The external auditor’s duties shall be limited to auditing the Bank’s accounts and financial 
+statements and may not interfere, in any manner, with Bank management or policies. 
+3. The external auditor shall have the right to access the Bank’s books, records, and 
+documents, and may request any data he deems necessary to carry out his duties. If the 
+auditor is unable to gain access to such data, he shall report the same to the Board.
+Chapter 5: Relationship with the Government and Foreign Entities
+Article 19
+The Bank shall, on behalf of the Government and upon the request of the Minister of Finance 
+or his designee, carry out the following:
+1. Open, settle, and monitor current accounts and record government revenues. 
+2. Maintain deposits and accounts. 
+3. Supervise the issuance and payment of letters of credit domestically and internationally.
+Article 20
+To achieve its objectives and carry out its duties, as required by the nature of its business, the 
+Bank may:
+1. enter into bilateral or multilateral agreements relating to monetary, regulatory, or
+8
+
+## Page 9
+
+oversight policies, in accordance with statutory procedures; 
+2. conclude agreements with other central banks; similar foreign supervisory or oversight 
+entities; or relevant international institutions, organizations, and councils, in accordance 
+with statutory procedures; 
+3. cooperate and coordinate with foreign counterparts for the purpose of exchanging 
+information or carrying out supervisory and oversight visits related to financial institutions; 
+and 
+4. carry out monetary and financial operations and open accounts with other central banks 
+and local, foreign, regional, and international monetary and financial institutions.
+Article 21
+In its communications with similar foreign oversight and supervisory authorities and relevant 
+international organizations, the Bank shall:
+1. promote its relationship therewith by exchanging visits and holding meetings and work 
+sessions; and 
+2. keep abreast of reports and information issued thereby.
+Chapter 6: Concluding Provisions
+Article 22
+1. The Bank may conclude contracts and agreements in Arabic or other languages, as 
+necessary. 
+2. The Bank shall not, in carrying out its activities and procurements, be subject to the 
+provisions of the Government Tenders and Procurement Law, and shall instead be subject 
+to regulations and policies issued by the Board, provided that such regulations and policies 
+are in line with the main objectives and principles of the Government Tenders and 
+Procurement Law. 
+3. Bank contracts and agreements shall be subject to policies approved by the Board. 
+However, if the interest of the Bank so dictates, Bank contracts and agreements may 
+stipulate that they be subject to foreign laws, in accordance with policies issued by the 
+Board. In such case, said contracts and agreements may stipulate that they be subject to 
+the jurisdiction of foreign courts or settle disputes through arbitration.
+Article 23
+Board members, Bank staff, Bank agents, and external auditors shall not disclose any data or 
+information relating to the affairs of the Bank or financial institutions, whether during or after 
+the term of their employment.
+Article 24
+Interfering, in any way, in the Bank’s activities and policies as well as its contracts and 
+agreements, imposing oversight over the Bank, and auditing its accounts shall not be 
+permitted.
+9
+
+## Page 10
+
+Article 25
+The Bank shall submit to the King a report comprising the latest financial and economic 
+developments in the Kingdom and the external auditors’ fiscal year-end report; a copy thereof 
+shall be submitted to the Minister of Finance and shall be published at the appropriate time 
+and in the appropriate manner.
+Article 26
+This Law shall supersede the Saudi Arabian Monetary Authority Law, promulgated by Royal 
+Decree No. 23, dated 23/5/1377H, and shall repeal any provision conflicting therewith.
+Article 27
+This Law shall enter into force 90 days following the date of its publication in the Official 
+Gazette.
+10

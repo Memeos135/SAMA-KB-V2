@@ -1,0 +1,362 @@
+{
+  "communities": {
+    "0": [
+      "concept_aml_ctf_law",
+      "markdown_sama_en_10698_ver1",
+      "markdown_sama_en_10698_ver1_capital",
+      "markdown_sama_en_10698_ver1_licensing",
+      "markdown_sama_en_10698_ver1_micro_finance",
+      "markdown_sama_en_10721_ver1",
+      "markdown_sama_en_10831_ver1",
+      "markdown_sama_en_10865_ver1",
+      "markdown_sama_en_10866_ver1",
+      "markdown_sama_en_10908_ver1",
+      "markdown_sama_en_10911_ver1",
+      "markdown_sama_en_10912_ver1"
+    ],
+    "1": [
+      "markdown_sama_en_10593_ver1_0",
+      "markdown_sama_en_10593_ver1_0_action_type",
+      "markdown_sama_en_10593_ver1_0_collateral_data",
+      "markdown_sama_en_10593_ver1_0_common_data",
+      "markdown_sama_en_10593_ver1_0_counterparty_data",
+      "markdown_sama_en_10593_ver1_0_dispute_resolution",
+      "markdown_sama_en_10593_ver1_0_governance",
+      "markdown_sama_en_10593_ver1_0_isin",
+      "markdown_sama_en_10593_ver1_0_lei",
+      "markdown_sama_en_10593_ver1_0_portfolio_compression",
+      "markdown_sama_en_10593_ver1_0_portfolio_reconciliation",
+      "markdown_sama_en_10593_ver1_0_reporting_obligation",
+      "markdown_sama_en_10593_ver1_0_unique_trade_id",
+      "markdown_sama_en_10593_ver1_0_upi",
+      "markdown_sama_en_10593_ver1_0_valuation"
+    ],
+    "2": [
+      "markdown_sama_en_10832_ver1",
+      "markdown_sama_en_10888_ver1",
+      "markdown_sama_en_10968_ver1",
+      "markdown_sama_en_10968_ver1_finance_lease_law",
+      "markdown_sama_en_10971_ver1",
+      "markdown_sama_en_11008_ver1",
+      "markdown_sama_en_11008_ver1_apr",
+      "markdown_sama_en_11009_ver1",
+      "markdown_sama_en_11009_ver1_dbr",
+      "markdown_sama_en_11009_ver1_finance_companies_law",
+      "markdown_sama_en_11010_ver1",
+      "markdown_sama_en_11011_ver1",
+      "markdown_sama_en_11011_ver1_real_estate_finance_law",
+      "markdown_sama_en_11012_ver1",
+      "markdown_sama_en_11015_ver1",
+      "markdown_sama_en_11015_ver1_sama_law",
+      "markdown_sama_en_11017_ver1",
+      "sama_en_10335",
+      "sama_en_10356",
+      "sama_en_10394",
+      "sama_en_10426",
+      "sama_en_10529"
+    ],
+    "3": [
+      "markdown_sama_en_10530_ver1_anti_fraud_rules_finance",
+      "markdown_sama_en_10530_ver1_counter_fraud_framework",
+      "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements",
+      "markdown_sama_en_10530_ver1_counter_fraud_governance",
+      "markdown_sama_en_10530_ver1_counter_fraud_technology",
+      "markdown_sama_en_10530_ver1_elevated_risk_controls",
+      "markdown_sama_en_10530_ver1_fraud_detection",
+      "markdown_sama_en_10530_ver1_fraud_prevention",
+      "markdown_sama_en_10530_ver1_fraud_response",
+      "markdown_sama_en_10530_ver1_fraud_risk_assessment"
+    ],
+    "4": [
+      "markdown_sama_en_10577_ver1_credit_risk",
+      "markdown_sama_en_10577_ver1_equity_investment_risk",
+      "markdown_sama_en_10577_ver1_liquidity_risk",
+      "markdown_sama_en_10577_ver1_market_risk",
+      "markdown_sama_en_10577_ver1_operational_risk",
+      "markdown_sama_en_10577_ver1_psias_rules",
+      "markdown_sama_en_10577_ver1_shariah_governance_framework",
+      "markdown_sama_en_10577_ver1_shariah_risk_framework",
+      "markdown_sama_en_10577_ver1_sncr"
+    ],
+    "5": [
+      "markdown_sama_en_10667_ver1",
+      "markdown_sama_en_10667_ver1_alerts",
+      "markdown_sama_en_10667_ver1_aml",
+      "markdown_sama_en_10667_ver1_freezing",
+      "markdown_sama_en_10667_ver1_sanctions_lists",
+      "markdown_sama_en_10667_ver1_screening",
+      "markdown_sama_en_10667_ver1_unsc",
+      "markdown_sama_en_10668_ver1"
+    ],
+    "6": [
+      "concept_payment_services_law",
+      "concept_pfmi",
+      "markdown_sama_en_10950_ver1",
+      "markdown_sama_en_10950_ver1_law_payments",
+      "markdown_sama_en_10950_ver1_self_assessment",
+      "markdown_sama_en_10950_ver1_supervisory_assessment",
+      "markdown_sama_en_10951_ver1",
+      "markdown_sama_en_10951_ver1_appendix_a",
+      "markdown_sama_en_10951_ver1_implementing_regulation"
+    ],
+    "7": [
+      "markdown_sama_en_10592_ver1_otc_trade_repository",
+      "markdown_sama_en_10592_ver1_prev_circular_42056371",
+      "markdown_sama_en_10592_ver1_section_a_reporting",
+      "markdown_sama_en_10592_ver1_section_b_risk_mitigation",
+      "markdown_sama_en_10592_ver1_upi",
+      "markdown_sama_en_10593_ver1_0_otc_trade_repository"
+    ],
+    "9": [
+      "markdown_sama_en_10681_ver1",
+      "markdown_sama_en_10681_ver1_admin_fees",
+      "markdown_sama_en_10681_ver1_consumer_finance_controls",
+      "markdown_sama_en_10681_ver1_consumer_protection",
+      "markdown_sama_en_10697_ver1"
+    ],
+    "10": [
+      "markdown_sama_en_10621_ver1",
+      "markdown_sama_en_10621_ver1_basel",
+      "markdown_sama_en_10621_ver1_eve_nii",
+      "markdown_sama_en_10621_ver1_shock_scenarios"
+    ],
+    "11": [
+      "markdown_sama_en_10959_ver1",
+      "markdown_sama_en_10959_ver1_aml_law",
+      "markdown_sama_en_10959_ver1_beneficial_owner",
+      "markdown_sama_en_11005_ver1"
+    ],
+    "12": [
+      "markdown_sama_en_10575_ver1_credit_card_faq",
+      "sama_en_10400",
+      "sama_en_10417",
+      "sama_en_10465",
+      "sama_en_10528"
+    ],
+    "14": [
+      "concept_governance_principles",
+      "markdown_sama_en_10910_ver1"
+    ],
+    "15": [
+      "gdbc_341000107020",
+      "gdbc_361000009335"
+    ],
+    "17": [
+      "markdown_sama_en_10646_ver1",
+      "markdown_sama_en_10647_ver1"
+    ],
+    "18": [
+      "markdown_sama_en_10559_ver1_efund_distribution"
+    ],
+    "19": [
+      "markdown_sama_en_10623_ver1"
+    ],
+    "20": [
+      "markdown_sama_en_10640_ver1"
+    ],
+    "21": [
+      "markdown_sama_en_10941_ver1"
+    ],
+    "22": [
+      "markdown_sama_en_10949_ver1"
+    ],
+    "23": [
+      "markdown_sama_en_10964_ver1"
+    ],
+    "24": [
+      "markdown_sama_en_10967_ver1"
+    ],
+    "25": [
+      "markdown_sama_en_10969_ver1"
+    ],
+    "26": [
+      "markdown_sama_en_10973_ver1"
+    ],
+    "27": [
+      "sama_en_10227"
+    ],
+    "28": [
+      "sama_en_10245"
+    ],
+    "29": [
+      "sama_en_10320"
+    ],
+    "30": [
+      "sama_en_10322"
+    ],
+    "31": [
+      "sama_en_10419"
+    ],
+    "32": [
+      "sama_en_10427"
+    ]
+  },
+  "cohesion": {
+    "0": 0.24242424242424243,
+    "1": 0.1619047619047619,
+    "2": 0.12121212121212122,
+    "3": 0.2222222222222222,
+    "4": 0.2222222222222222,
+    "5": 0.32142857142857145,
+    "6": 0.2222222222222222,
+    "7": 0.4,
+    "9": 0.5,
+    "10": 0.5,
+    "11": 0.6666666666666666,
+    "12": 0.4,
+    "14": 1.0,
+    "15": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0
+  },
+  "gods": [
+    {
+      "id": "markdown_sama_en_11009_ver1_finance_companies_law",
+      "label": "Finance Companies Control Law",
+      "degree": 17
+    },
+    {
+      "id": "markdown_sama_en_10593_ver1_0",
+      "label": "OTC Derivative Trade Repository Reporting Requirements",
+      "degree": 9
+    },
+    {
+      "id": "markdown_sama_en_10530_ver1_counter_fraud_fundamental_requirements",
+      "label": "Counter-Fraud Fundamental Requirements",
+      "degree": 8
+    },
+    {
+      "id": "markdown_sama_en_10577_ver1_shariah_risk_framework",
+      "label": "Risk Management Framework for Shari'ah Compliant Banking",
+      "degree": 7
+    },
+    {
+      "id": "markdown_sama_en_10667_ver1",
+      "label": "Targeted Financial Sanctions Rules",
+      "degree": 7
+    },
+    {
+      "id": "markdown_sama_en_10698_ver1",
+      "label": "Finance Companies Regulation (Articles 23-105)",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_10831_ver1",
+      "label": "Implementing Regulation of Finance Companies Control Law",
+      "degree": 6
+    },
+    {
+      "id": "markdown_sama_en_10593_ver1_0_common_data",
+      "label": "Common Data Fields (Appendix A)",
+      "degree": 5
+    },
+    {
+      "id": "markdown_sama_en_10721_ver1",
+      "label": "Licensing Rules for Finance Support Activities",
+      "degree": 5
+    },
+    {
+      "id": "markdown_sama_en_10950_ver1",
+      "label": "Supervisory Framework for Payment Systems and Operators",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Amendment to Licensing Rules for Finance Support Activities",
+      "target": "Finance Companies Control Law",
+      "source_files": [
+        "markdown/SAMA_EN_10865_VER1.md",
+        "markdown/SAMA_EN_11009_VER1.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities; peripheral node `Amendment to Licensing Rules for Finance Support Activities` unexpectedly reaches hub `Finance Companies Control Law`"
+    },
+    {
+      "source": "Raising BNPL Financing Ceiling",
+      "target": "Finance Companies Control Law",
+      "source_files": [
+        "markdown/SAMA_EN_10888_VER1.md",
+        "markdown/SAMA_EN_11009_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `Raising BNPL Financing Ceiling` unexpectedly reaches hub `Finance Companies Control Law`"
+    },
+    {
+      "source": "Rules for Disclosure of Financing and Savings Product Prices",
+      "target": "Finance Companies Control Law",
+      "source_files": [
+        "markdown/SAMA_EN_11008_VER1.md",
+        "markdown/SAMA_EN_11009_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `Rules for Disclosure of Financing and Savings Product Prices` unexpectedly reaches hub `Finance Companies Control Law`"
+    },
+    {
+      "source": "Close-out Netting and Collateral Arrangements Regulation",
+      "target": "Finance Companies Control Law",
+      "source_files": [
+        "markdown/SAMA_EN_10394_VER1.md",
+        "markdown/SAMA_EN_11009_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "references",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `Close-out Netting and Collateral Arrangements Regulation` unexpectedly reaches hub `Finance Companies Control Law`"
+    },
+    {
+      "source": "Updated Collection Controls and Procedures (Duplicate)",
+      "target": "Updated Collection Controls and Procedures for Individual Customers",
+      "source_files": [
+        "markdown/SAMA_EN_10417_VER1.md",
+        "markdown/SAMA_EN_10400_VER1.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "semantically_similar_to",
+      "why": "inferred connection - not explicitly stated in source; semantically similar concepts with no structural link"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Finance Companies Control Law` connect `Finance Companies Control Law` to `Finance Companies Regulation (Articles 23-105)`?",
+      "why": "High betweenness centrality (0.052) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Finance Companies Regulation (Articles 23-105)` connect `Finance Companies Regulation (Articles 23-105)` to `Finance Companies Control Law`?",
+      "why": "High betweenness centrality (0.015) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `Finance Companies Control Law` (e.g. with `Raising BNPL Financing Ceiling` and `Rules for Disclosure of Financing and Savings Product Prices`) actually correct?",
+      "why": "`Finance Companies Control Law` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Updated Collection Controls and Procedures (Duplicate)`, `Credit Card Issuance and Operation Rules (Duplicate)`, `Counter-Fraud Fundamental Requirements Guide` to the rest of the system?",
+      "why": "70 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Finance Companies Control Law` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12121212121212122 - nodes in this community are weakly interconnected."
+    }
+  ]
+}
