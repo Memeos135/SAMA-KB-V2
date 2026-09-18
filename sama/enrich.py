@@ -12,7 +12,7 @@ and that is what the model is for.
   enrich()  - the model does only what nothing else can: per-node summaries,
               community themes, and narratives for edges that earn one.
   render()  - writes the vault notes.
-  routing_index() - the "where do I look" artifact the Mapper agent needs.
+  routing_index() - writes the vault's own entry point, _INDEX_Routing.md.
 """
 
 from __future__ import annotations
@@ -700,11 +700,10 @@ def render(nodes: Dict[str, dict], links: List[dict], grounding: dict) -> Tuple[
 # --------------------------------------------------------------------------- #
 
 def routing_index(nodes: Dict[str, dict], links: List[dict]) -> Path:
-    """The 'where do I look' artifact.
+    """The vault's own index page for a human reader opening it in Obsidian.
 
-    One grep-able file mapping term -> node -> source stem -> page, so the Mapper
-    agent can go from a question to a shortlist of documents without reading the
-    corpus first.
+    README.md tells a person to "start at _INDEX_Routing.md" - this writes that
+    file: term -> node -> source stem -> page, all as wikilinks into the vault.
     """
     enr = load_enrichment()
     deg = degrees(links)
@@ -772,13 +771,6 @@ def routing_index(nodes: Dict[str, dict], links: List[dict]) -> Path:
 
     out = config.VAULT_DIR / "_INDEX_Routing.md"
     out.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    write_json(config.GRAPH_REPORTS / "routing_index.json", {
-        "generated": datetime.now(timezone.utc).isoformat(),
-        "by_regime": {k: sorted(set(v)) for k, v in by_regime.items()},
-        "by_stem": {k: sorted(set(v)) for k, v in stem_rows.items()},
-        "hubs": [{"label": nodes[nid].get("label"), "degree": d}
-                 for nid, d in sorted(deg.items(), key=lambda x: -x[1])[:50] if nid in nodes],
-    })
     print(f"Routing index -> {out}")
     return out
 

@@ -19,3 +19,6 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local cleanup staging (moved-out dead files, not committed)
+_to_delete/
