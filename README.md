@@ -216,7 +216,7 @@ Every quotation is a literal slice of the cited file at the cited page.
 │   ├── PROPOSAL.md               scope, design principles, risks, delivery plan
 │   ├── PIPELINE.md               data flow and artifacts
 │   ├── SESSION.md                runbook and open items
-│   └── agents/                   historical — superseded opencode agent design, kept for record
+│   └── agents/                   reference copies of the live sama-counsel / sama-digger / sama-auditor Claude Skills
 ├── tools/tessdata/               eng + ara OCR language data
 │
 │   # outputs — all re-derivable, all gitignored:
@@ -236,9 +236,12 @@ Querying the corpus (turning a compliance question into a cited answer) is not d
 with any code in this repo. It runs as three Claude Skills — `sama-counsel` /
 `sama-digger` / `sama-auditor` — that Grep/Read `corpus/markdown/` and the three
 `graphify-out/` files above directly; no script, shell command or Python runs in that
-path. The old `.opencode/` agent definitions and `sama/retrieve.py` / `sama/cite.py`
-(the CLI scripts those agents shelled out to) have been removed — this pipeline now
-only builds and refreshes the knowledge base; it no longer answers questions itself.
+path. Read `docs/agents/README.md` for what each one does — those files are a
+point-in-time copy for humans, not the live source; the skills themselves live in
+Claude's own skills system, outside this repo. The old `.opencode/` agent definitions
+and `sama/retrieve.py` / `sama/cite.py` (the CLI scripts those agents shelled out to)
+have been removed — this pipeline now only builds and refreshes the knowledge base;
+it no longer answers questions itself.
 
 ---
 

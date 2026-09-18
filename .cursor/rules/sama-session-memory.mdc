@@ -12,7 +12,7 @@ IDE/agent continuity only. For facts, prefer live project docs over memory.
 1. `README.md` — layout, stages, what changed from v1 and why
 2. `docs/PIPELINE.md` — data flow, artifacts, cost control
 3. `docs/SESSION.md` — runbook and open items
-4. The `sama-counsel` / `sama-digger` / `sama-auditor` Claude Skills — how questions actually get answered
+4. `docs/agents/README.md` — what `sama-counsel` / `sama-digger` / `sama-auditor` do (a human-readable copy; the live skills are the real source, see below)
 
 ## Source-of-truth hierarchy
 
@@ -22,7 +22,7 @@ IDE/agent continuity only. For facts, prefer live project docs over memory.
 | Data flow & artifacts | `docs/PIPELINE.md` |
 | Paths, thresholds, models | `sama/config.py` |
 | Session state / todos | `docs/SESSION.md` |
-| Query workflow | `sama-counsel` / `sama-digger` / `sama-auditor` Claude Skills (not code in this repo) |
+| Query workflow | `sama-counsel` / `sama-digger` / `sama-auditor` Claude Skills (not code in this repo — `docs/agents/` holds a synced reference copy) |
 | Regulatory text | `corpus/markdown/*.md` |
 | Graph navigation | `SAMA_Knowledge_Base_Obsidian/_INDEX_Routing.md` |
 | Conversion QA | `reports/conversion/` |
@@ -48,4 +48,4 @@ IDE/agent continuity only. For facts, prefer live project docs over memory.
 - Re-run a full extract or a paid enrichment pass unless the user asks.
 - Reintroduce `arabic-reshaper` / `python-bidi`: they emit display-order
   presentation forms, which is the defect v2 exists to fix.
-- Rewrite the query workflow in-chat as a parallel source; edit the `sama-counsel` / `sama-digger` / `sama-auditor` skills themselves. `docs/agents/` (v1/v2 opencode design) is retired history, not a live spec.
+- Rewrite the query workflow in-chat as a parallel source; edit the `sama-counsel` / `sama-digger` / `sama-auditor` skills themselves. `docs/agents/*.md` is a synced reference copy for humans, not the live source — editing it changes nothing about how a question gets answered. If you change a live skill, re-sync its content into `docs/agents/` so the copy doesn't go stale.
